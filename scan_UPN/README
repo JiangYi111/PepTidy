@@ -1,0 +1,3 @@
+'scan_UPN.lib' only contain peptidases of family 'U', 'P' and 'N', which are selected from 'merops_scan.lib' (download from ftp://ftp.ebi.ac.uk/pub/databases/merops/old_releases/merops110/merops_scan.lib)
+
+User can use this database to detect peptidases of family 'U', 'P' and 'N' in proteome by Blastp.

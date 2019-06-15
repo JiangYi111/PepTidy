@@ -1,0 +1,4852 @@
+QN   scaffold41_27
+AT   ACT_SITE: D175 H207 S372
+DO   Domain: 135-407
+FM   Family: S08.UPA
+MD   MEROPS_id: 0401795
+EV   E-Value: same
+SC   Score: MAX
+UP   Uniport_id: C5P4Z8
+DE   RecName: Full=Subtilisin-like protease CPC735_031240;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   ORFNames=CPC735_031240;
+end
+
+
+QN   scaffold1_11
+AT   ACT_SITE: C109 H124
+DO   Domain: #47-166
+FM   Family: C56
+MD   MEROPS_id: 0913154
+EV   E-Value: 2e-105
+SC   Score: 304 bits (778)
+UP   Uniport_id: O88767
+DE   RecName: Full=Protein/nucleic acid deglycase DJ-1 {ECO:0000250|UniProtKB:Q99497};
+DE            EC=3.1.2.- {ECO:0000250|UniProtKB:Q99497};
+DE            EC=3.5.1.- {ECO:0000250|UniProtKB:Q99497};
+DE            EC=3.5.1.124 {ECO:0000250|UniProtKB:Q99497};
+DE   AltName: Full=Contraception-associated protein 1 {ECO:0000303|PubMed:9792810};
+DE            Short=Protein CAP1;
+DE   AltName: Full=Fertility protein SP22 {ECO:0000303|PubMed:9733139};
+DE   AltName: Full=Maillard deglycase {ECO:0000250|UniProtKB:Q99497};
+DE   AltName: Full=Parkinson disease protein 7 homolog {ECO:0000305};
+DE   AltName: Full=Parkinsonism-associated deglycase {ECO:0000250|UniProtKB:Q99497};
+DE   AltName: Full=Protein DJ-1 {ECO:0000250|UniProtKB:Q99497};
+DE            Short=DJ-1;
+DE   Flags: Precursor;
+GN   Name=Park7 {ECO:0000312|RGD:621808}; Synonyms=Cap1;
+end
+
+
+QN   scaffold1_55
+AT   ACT_SITE: S194 D397 H456
+AT   BINDING: C400 M457
+DO   Domain: #52-480
+FM   Family: S10
+MD   MEROPS_id: 0943598
+EV   E-Value: 0.0
+SC   Score: 803 bits (2074)
+UP   Uniport_id: P30574
+DE   RecName: Full=Carboxypeptidase Y;
+DE            EC=3.4.16.5;
+DE   AltName: Full=Carboxypeptidase YSCY;
+DE   Flags: Precursor;
+GN   Name=CPY1;
+end
+
+
+QN   scaffold1_87
+AT   ACT_SITE: D167 H223 S531
+DO   Domain: #107-592
+FM   Family: S08
+MD   MEROPS_id: 0986123
+EV   E-Value: 0.0
+SC   Score: 1229 bits (3181)
+UP   Uniport_id: P29141
+DE   RecName: Full=Minor extracellular protease vpr;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=vpr; OrderedLocusNames=BSU38090; ORFNames=ipa-45r;
+end
+
+
+QN   scaffold1_88
+AT   ACT_SITE: D168 H224 S532
+DO   Domain: #128-595
+FM   Family: S08
+MD   MEROPS_id: 0983918
+EV   E-Value: 0.0
+SC   Score: 1158 bits (2995)
+UP   Uniport_id: P29141
+DE   RecName: Full=Minor extracellular protease vpr;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=vpr; OrderedLocusNames=BSU38090; ORFNames=ipa-45r;
+end
+
+
+QN   scaffold1_97
+AT   ACT_SITE: S161 D272 H297
+DO   Domain: #50-318
+FM   Family: S09
+MD   MEROPS_id: 0222846
+EV   E-Value: 1e-23
+SC   Score: 102 bits (254)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold1_159
+AT   ACT_SITE: S191 D320 H349
+DO   Domain: #59-380
+FM   Family: S33
+MD   MEROPS_id: 0136063
+EV   E-Value: 3e-74
+SC   Score: 252 bits (644)
+UP   Uniport_id: Q9PD69
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip; OrderedLocusNames=XF_1510;
+end
+
+
+QN   scaffold1_171
+AT   METAL: D190 D201 H270 E304 E399
+AT   BINDING: H170 H278
+DO   Domain: 95-418
+FM   Family: M24
+MD   MEROPS_id: 0424839
+EV   E-Value: 0.0
+SC   Score: 729 bits (1881)
+UP   Uniport_id: O60085
+DE   RecName: Full=Methionine aminopeptidase 2 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE            Short=MAP 2 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE            Short=MetAP 2 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_03175};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_03175};
+GN   Name=fma2; Synonyms=map2; ORFNames=SPBC14C8.03;
+end
+
+
+QN   scaffold1_182
+AT   ACT_SITE: E222
+AT   METAL: H175 D187 E223 D295 H322
+DO   Domain: #83-363
+FM   Family: M28
+MD   MEROPS_id: 0005145
+EV   E-Value: 6e-138
+SC   Score: 435 bits (1119)
+UP   Uniport_id: Q9M1S8
+DE   RecName: Full=Probable glutamate carboxypeptidase AMP1 {ECO:0000305};
+DE            EC=3.4.17.21 {ECO:0000305};
+DE   AltName: Full=Probable glutamate carboxypeptidase 2 {ECO:0000305};
+DE   AltName: Full=Probable glutamate carboxypeptidase II {ECO:0000305};
+DE   AltName: Full=Protein ALTERED MERISTEM PROGRAM 1 {ECO:0000303|PubMed:17006669};
+DE            Short=AtAMP1 {ECO:0000303|PubMed:23603279};
+DE   AltName: Full=Protein CONSTITUTIVE MORPHOGENESIS 2;
+DE   AltName: Full=Protein HAUPTLING {ECO:0000305};
+DE   AltName: Full=Protein MULTIFOLIA {ECO:0000305};
+DE   AltName: Full=Protein PRIMORDIA TIMING;
+GN   Name=AMP1 {ECO:0000303|PubMed:11549767};
+GN   Synonyms=COP2 {ECO:0000305}, HPT {ECO:0000305}, MFO1 {ECO:0000305},
+GN   PT {ECO:0000303|PubMed:11549767};
+GN   OrderedLocusNames=At3g54720 {ECO:0000312|Araport:AT3G54720};
+GN   ORFNames=T5N23_80 {ECO:0000312|EMBL:CAB77592.1};
+end
+
+
+QN   scaffold1_243
+AT   ACT_SITE: D62 D247
+DO   Domain: #43-374
+FM   Family: A01
+MD   MEROPS_id: 0693918
+EV   E-Value: 9e-55
+SC   Score: 189 bits (479)
+UP   Uniport_id: Q29079
+DE   RecName: Full=Pregnancy-associated glycoprotein 2;
+DE            Short=PAG 2;
+DE            EC=3.4.23.-;
+DE   Flags: Precursor;
+GN   Name=PAG2;
+end
+
+
+QN   scaffold1_245
+AT   ACT_SITE: E420
+AT   METAL: H482 H484 D495
+DO   Domain: #398-526
+FM   Family: M67
+MD   MEROPS_id: 0906708
+EV   E-Value: 4e-68
+SC   Score: 243 bits (621)
+UP   Uniport_id: D4GTS4
+DE   RecName: Full=Desampylase;
+DE            EC=3.4.19.15 {ECO:0000269|PubMed:22970855};
+DE   AltName: Full=HvJAMM1;
+GN   OrderedLocusNames=HVO_2505; ORFNames=C498_07813;
+end
+
+
+QN   scaffold1_307
+AT   ACT_SITE: D72 D220
+DO   Domain: 41-352
+FM   Family: A01
+MD   MEROPS_id: 0000900
+EV   E-Value: 3e-07
+SC   Score: 55.1 bits (131)
+UP   Uniport_id: P28713
+DE   RecName: Full=Pepsin II-4;
+DE            EC=3.4.23.1;
+DE   AltName: Full=Pepsin A;
+DE   Flags: Precursor;
+end
+
+
+QN   scaffold1_319
+AT   ACT_SITE: C140 H141 E172
+DO   Domain: #43-210
+FM   Family: C56
+MD   MEROPS_id: 0898492
+EV   E-Value: 2e-145
+SC   Score: 409 bits (1052)
+UP   Uniport_id: Q04432
+DE   RecName: Full=Glutathione-independent glyoxalase HSP31 {ECO:0000303|PubMed:24302734};
+DE            EC=4.2.1.130 {ECO:0000269|PubMed:24302734, ECO:0000269|PubMed:24758716};
+DE   AltName: Full=Glyoxalase 3 homolog 1 {ECO:0000250|UniProtKB:Q5AF03};
+DE   AltName: Full=Heat shock protein 31 {ECO:0000303|PubMed:14745011};
+GN   Name=HSP31 {ECO:0000303|PubMed:14745011};
+GN   OrderedLocusNames=YDR533C {ECO:0000312|SGD:S000002941};
+GN   ORFNames=D9719.36;
+end
+
+
+QN   scaffold1_323
+AT   ACT_SITE: S26 K69
+DO   Domain: #10-144
+FM   Family: S26
+MD   MEROPS_id: 1047403
+EV   E-Value: 2e-92
+SC   Score: 268 bits (684)
+UP   Uniport_id: Q9CQU8
+DE   RecName: Full=Mitochondrial inner membrane protease subunit 1;
+DE            EC=3.4.21.-;
+DE   AltName: Full=IMP1-like protein;
+GN   Name=Immp1l;
+end
+
+
+QN   scaffold1_395
+AT   ACT_SITE: T356
+AT   BINDING: R134 T374 N376 E395 D398
+DO   Domain: #53-547
+FM   Family: T03
+MD   MEROPS_id: 1097875
+EV   E-Value: 3e-61
+SC   Score: 235 bits (599)
+UP   Uniport_id: Q8VYW6
+DE   RecName: Full=Glutathione hydrolase 1;
+DE            EC=3.4.19.13;
+DE   AltName: Full=Gamma-glutamyltransferase 1;
+DE   AltName: Full=Gamma-glutamyltranspeptidase 1;
+DE            EC=2.3.2.2;
+DE   Flags: Precursor;
+GN   Name=GGT1; OrderedLocusNames=At4g39640; ORFNames=T19P19.30;
+end
+
+
+QN   scaffold2_7
+AT   METAL: H395 D405 E443 D471
+DO   Domain: 314-580
+FM   Family: M28
+MD   MEROPS_id: 0068405
+EV   E-Value: 3e-86
+SC   Score: 295 bits (754)
+UP   Uniport_id: B2W572
+DE   RecName: Full=Probable zinc metalloprotease PTRG_04772;
+DE            EC=3.4.-.-;
+DE   Flags: Precursor;
+GN   ORFNames=PTRG_04772;
+end
+
+
+QN   scaffold2_9
+AT   ACT_SITE: S78 D223 H248
+DO   Domain: #1-277
+FM   Family: S33
+MD   MEROPS_id: 0228598
+EV   E-Value: 1e-82
+SC   Score: 258 bits (659)
+UP   Uniport_id: Q97A76
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+DE   AltName: Full=Tricorn protease-interacting factor F1;
+GN   Name=pip; OrderedLocusNames=TV0934; ORFNames=TVG0960913;
+end
+
+
+QN   scaffold2_34
+AT   ACT_SITE: E445
+AT   METAL: C243 H444 H448 H454
+DO   Domain: NA
+FM   Family: M12
+MD   MEROPS_id: 0254819
+EV   E-Value: 1e-137
+SC   Score: 429 bits (1104)
+UP   Uniport_id: Q10741
+DE   RecName: Full=Disintegrin and metalloproteinase domain-containing protein 10;
+DE            Short=ADAM 10;
+DE            EC=3.4.24.81;
+DE   AltName: Full=Kuzbanian protein homolog;
+DE   AltName: Full=Mammalian disintegrin-metalloprotease;
+DE   AltName: Full=Myelin-associated metalloproteinase;
+DE   AltName: CD_antigen=CD156c;
+DE   Flags: Precursor;
+GN   Name=ADAM10; Synonyms=MADM;
+end
+
+
+QN   scaffold2_67
+AT   ACT_SITE: D99 D284
+DO   Domain: #65-402
+FM   Family: A01
+MD   MEROPS_id: 0693428
+EV   E-Value: 0.0
+SC   Score: 566 bits (1459)
+UP   Uniport_id: Q9GMY4
+DE   RecName: Full=Gastricsin;
+DE            EC=3.4.23.3;
+DE   AltName: Full=Pepsinogen C;
+DE   Flags: Precursor;
+GN   Name=PGC; Synonyms=PGNC;
+end
+
+
+QN   scaffold2_123
+AT   ACT_SITE: D809 H858 S1085
+DO   Domain: #775-1169
+FM   Family: S08
+MD   MEROPS_id: 0974859
+EV   E-Value: 1e-139
+SC   Score: 456 bits (1172)
+UP   Uniport_id: P29141
+DE   RecName: Full=Minor extracellular protease vpr;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=vpr; OrderedLocusNames=BSU38090; ORFNames=ipa-45r;
+end
+
+
+QN   scaffold2_147
+AT   ACT_SITE: S159 D257 H287
+DO   Domain: #47-310
+FM   Family: S09
+MD   MEROPS_id: 0040808
+EV   E-Value: 7e-78
+SC   Score: 244 bits (622)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold2_148
+AT   ACT_SITE: S120 D217 H247
+DO   Domain: #8-270
+FM   Family: S09
+MD   MEROPS_id: 0283894
+EV   E-Value: 7e-81
+SC   Score: 250 bits (639)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold2_183
+AT   ACT_SITE: S114 D228 H250
+DO   Domain: #5-270
+FM   Family: S33
+MD   MEROPS_id: 0414469
+EV   E-Value: 7e-56
+SC   Score: 184 bits (467)
+UP   Uniport_id: P46542
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip; Synonyms=pepI;
+end
+
+
+QN   scaffold2_222
+AT   ACT_SITE: S112 D234 H264
+DO   Domain: #1-282
+FM   Family: S33
+MD   MEROPS_id: 0136004
+EV   E-Value: 7e-54
+SC   Score: 181 bits (458)
+UP   Uniport_id: Q97UA2
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+DE   AltName: Full=Tricorn protease-interacting factor F1;
+GN   Name=pip; OrderedLocusNames=SSO3115;
+end
+
+
+QN   scaffold3_69
+AT   ACT_SITE: S59 D143 H175
+DO   Domain: #12-191
+FM   Family: S09
+MD   MEROPS_id: 0228072
+EV   E-Value: 1e-07
+SC   Score: 55.1 bits (131)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold3_86
+AT   ACT_SITE: E134 D193
+AT   METAL: H133 H137 E189
+DO   Domain: #20-253
+FM   Family: M48
+MD   MEROPS_id: 0889622
+EV   E-Value: 4e-130
+SC   Score: 374 bits (959)
+UP   Uniport_id: Q8ZCC3
+DE   RecName: Full=Beta-barrel assembly-enhancing protease {ECO:0000255|HAMAP-Rule:MF_00997};
+DE            EC=3.4.-.- {ECO:0000255|HAMAP-Rule:MF_00997};
+DE   Flags: Precursor;
+GN   Name=bepA {ECO:0000255|HAMAP-Rule:MF_00997};
+GN   OrderedLocusNames=YPO3069, y1412, YP_2691;
+end
+
+
+QN   scaffold3_99
+AT   ACT_SITE: E537
+AT   METAL: H536 H540 D612
+AT   BINDING: A271 H452
+DO   Domain: NA
+FM   Family: M41
+MD   MEROPS_id: 0877057
+EV   E-Value: 0.0
+SC   Score: 1026 bits (2653)
+UP   Uniport_id: Q9UQ90
+DE   RecName: Full=Paraplegin {ECO:0000250|UniProtKB:Q3ULF4};
+DE            EC=3.4.24.-;
+DE   AltName: Full=Cell matrix adhesion regulator {ECO:0000312|HGNC:HGNC:11237};
+DE   AltName: Full=Spastic paraplegia 7 protein {ECO:0000312|HGNC:HGNC:11237};
+DE   Flags: Precursor;
+GN   Name=SPG7 {ECO:0000312|HGNC:HGNC:11237};
+GN   Synonyms=CAR, CMAR {ECO:0000312|HGNC:HGNC:11237}, PGN;
+end
+
+
+QN   scaffold4_101
+AT   ACT_SITE: C230 H400 H408
+DO   Domain: #50-472
+FM   Family: C19
+MD   MEROPS_id: 0714821
+EV   E-Value: 6e-137
+SC   Score: 409 bits (1052)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+AT   ACT_SITE: C58 H408
+AT   METAL: C198 C201 C245 C248
+DO   Domain: #30-472
+FM   Family: C19
+MD   MEROPS_id: 0711364
+EV   E-Value: 6e-112
+SC   Score: 347 bits (890)
+UP   Uniport_id: Q8IQ27
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase Usp2 {ECO:0000303|PubMed:26756164};
+DE            EC=3.4.19.12 {ECO:0000269|PubMed:25027767};
+DE   AltName: Full=Ubiquitin specific protease 2 {ECO:0000303|PubMed:25027767};
+GN   Name=Usp2 {ECO:0000303|PubMed:25027767,
+GN   ECO:0000312|FlyBase:FBgn0031187};
+GN   ORFNames=CG14619 {ECO:0000312|FlyBase:FBgn0031187};
+end
+
+
+QN   scaffold4_151
+AT   ACT_SITE: S161 D258 H288
+DO   Domain: #54-317
+FM   Family: S09
+MD   MEROPS_id: 0283894
+EV   E-Value: 6e-74
+SC   Score: 234 bits (597)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold5_12
+AT   ACT_SITE: S197 D390 H418
+DO   Domain: #90-421
+FM   Family: S33
+MD   MEROPS_id: 0032743
+EV   E-Value: 7e-25
+SC   Score: 116 bits (290)
+UP   Uniport_id: P42786
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip;
+end
+
+
+QN   scaffold5_19
+AT   ACT_SITE: C355 H439 E441
+DO   Domain: #62-504
+FM   Family: C26
+MD   MEROPS_id: 0424859
+EV   E-Value: 0.0
+SC   Score: 3869 bits (10034)
+UP   Uniport_id: O82225
+DE   RecName: Full=Gamma-glutamyl peptidase 5 {ECO:0000305};
+DE            EC=3.4.19.- {ECO:0000305};
+GN   Name=GGP5 {ECO:0000305};
+GN   OrderedLocusNames=At2g23970 {ECO:0000312|Araport:AT2G23970};
+end
+
+
+QN   scaffold5_52
+AT   ACT_SITE: T456
+DO   Domain: #232-646
+FM   Family: T03
+MD   MEROPS_id: 1099893
+EV   E-Value: 4e-107
+SC   Score: 335 bits (858)
+UP   Uniport_id: P15557
+DE   RecName: Full=Acylase ACY 1 proenzyme;
+DE   Includes:
+DE     RecName: Full=Cephalosporin acylase;
+DE              EC=3.5.1.93;
+DE     AltName: Full=GL-7ACA acylase;
+DE   Includes:
+DE     RecName: Full=Gamma-glutamyltranspeptidase;
+DE              Short=GGT;
+DE              EC=2.3.2.2;
+DE     AltName: Full=Glutathione hydrolase;
+DE              EC=3.4.19.13;
+DE   Contains:
+DE     RecName: Full=Acylase ACY 1 large subunit;
+DE   Contains:
+DE     RecName: Full=Acylase ACY 1 small subunit;
+GN   Name=acyI;
+end
+
+
+QN   scaffold5_57
+AT   ACT_SITE: H1699 C1725
+DO   Domain: #1183-1822
+FM   Family: C50
+MD   MEROPS_id: 0728936
+EV   E-Value: 0.0
+SC   Score: 1385 bits (3584)
+UP   Uniport_id: Q03018CHANGE
+DE   RecName: Full=Separin;
+DE            EC=3.4.22.49;
+DE   AltName: Full=Separase;
+GN   Name=ESP1; OrderedLocusNames=YGR098C;
+end
+
+
+QN   scaffold5_88
+AT   ACT_SITE: S314 D460 H500
+DO   Domain: #201-530
+FM   Family: S09
+MD   MEROPS_id: 0625875
+EV   E-Value: 1e-50
+SC   Score: 192 bits (488)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold5_105
+AT   ACT_SITE: C407 H536 E538
+DO   Domain: #201-565
+FM   Family: C26
+MD   MEROPS_id: 0424833
+EV   E-Value: 0.0
+SC   Score: 1058 bits (2735)
+UP   Uniport_id: Q9M0A7
+DE   RecName: Full=Gamma-glutamyl peptidase 1 {ECO:0000305};
+DE            EC=3.4.19.16 {ECO:0000269|PubMed:21712415};
+GN   Name=GGP1 {ECO:0000303|PubMed:19483696};
+GN   OrderedLocusNames=At4g30530 {ECO:0000312|Araport:AT4G30530};
+end
+
+
+QN   scaffold5_156
+AT   ACT_SITE: C162 H363 H372
+DO   Domain: #84-412
+FM   Family: C19
+MD   MEROPS_id: 0715301
+EV   E-Value: 0.0
+SC   Score: 941 bits (2432)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold5_161
+AT   ACT_SITE: T33
+DO   Domain: #28-238
+FM   Family: T01
+MD   MEROPS_id: 1093861
+EV   E-Value: 2e-180
+SC   Score: 498 bits (1282)
+UP   Uniport_id: B8D673
+DE   RecName: Full=Proteasome subunit beta 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB1 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=DKAM_1278;
+end
+
+
+QN   scaffold5_182
+AT   ACT_SITE: D46 H266 S452
+DO   Domain: #6-566
+FM   Family: S08
+MD   MEROPS_id: 0974238
+EV   E-Value: 0.0
+SC   Score: 2241 bits (5808)
+UP   Uniport_id: P29144
+DE   RecName: Full=Tripeptidyl-peptidase 2;
+DE            Short=TPP-2;
+DE            EC=3.4.14.10;
+DE   AltName: Full=Tripeptidyl aminopeptidase;
+DE   AltName: Full=Tripeptidyl-peptidase II;
+DE            Short=TPP-II;
+GN   Name=TPP2;
+end
+
+
+QN   scaffold5_295
+AT   ACT_SITE: E391
+AT   METAL: H453 H455 D466
+DO   Domain: #369-506
+FM   Family: M67
+MD   MEROPS_id: 0424937
+EV   E-Value: 0.0
+SC   Score: 679 bits (1751)
+UP   Uniport_id: D4GTS4
+DE   RecName: Full=Desampylase;
+DE            EC=3.4.19.15 {ECO:0000269|PubMed:22970855};
+DE   AltName: Full=HvJAMM1;
+GN   OrderedLocusNames=HVO_2505; ORFNames=C498_07813;
+end
+
+
+QN   scaffold5_315
+AT   ACT_SITE: C133 H456
+AT   METAL: C259 C262 C306 C309
+DO   Domain: #102-524
+FM   Family: C19
+MD   MEROPS_id: 0711364
+EV   E-Value: 2e-99
+SC   Score: 318 bits (815)
+UP   Uniport_id: Q8IQ27
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase Usp2 {ECO:0000303|PubMed:26756164};
+DE            EC=3.4.19.12 {ECO:0000269|PubMed:25027767};
+DE   AltName: Full=Ubiquitin specific protease 2 {ECO:0000303|PubMed:25027767};
+GN   Name=Usp2 {ECO:0000303|PubMed:25027767,
+GN   ECO:0000312|FlyBase:FBgn0031187};
+GN   ORFNames=CG14619 {ECO:0000312|FlyBase:FBgn0031187};
+AT   ACT_SITE: C291 H447 H456
+DO   Domain: #125-521
+FM   Family: C19
+MD   MEROPS_id: 0714821
+EV   E-Value: 1e-77
+SC   Score: 259 bits (662)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold5_374
+AT   ACT_SITE: S130 D241 H292
+DO   Domain: #39-311
+FM   Family: S33
+MD   MEROPS_id: 0116328
+EV   E-Value: 1e-15
+SC   Score: 80.5 bits (197)
+UP   Uniport_id: A5I3F5
+DE   RecName: Full=Proline iminopeptidase {ECO:0000312|EMBL:CAL83573.1};
+DE            Short=PIP {ECO:0000250|UniProtKB:P46542};
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase {ECO:0000312|EMBL:ABS36268.1};
+DE            Short=PAP {ECO:0000250|UniProtKB:P46542};
+GN   Name=pip {ECO:0000250|UniProtKB:P46542};
+GN   Synonyms=pepIP {ECO:0000312|EMBL:CAL83573.1};
+GN   OrderedLocusNames=CBO2031, CLC_1977;
+end
+
+
+QN   scaffold5_396
+AT   ACT_SITE: T36
+DO   Domain: #28-237
+FM   Family: T01
+MD   MEROPS_id: 1091062
+EV   E-Value: 0.0
+SC   Score: 504 bits (1298)
+UP   Uniport_id: B8D673
+DE   RecName: Full=Proteasome subunit beta 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB1 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=DKAM_1278;
+end
+
+
+QN   scaffold5_444
+AT   ACT_SITE: E528 D596
+AT   METAL: H527 H531 E592
+DO   Domain: #1-659
+FM   Family: M13
+MD   MEROPS_id: 0830974
+EV   E-Value: 0.0
+SC   Score: 977 bits (2525)
+UP   Uniport_id: Q18673
+DE   RecName: Full=Neprilysin-1;
+DE            EC=3.4.24.-;
+GN   Name=nep-1; ORFNames=ZK20.6;
+end
+
+
+QN   scaffold5_446
+AT   ACT_SITE: E546 D614
+AT   METAL: H545 H549 E610
+DO   Domain: #16-713
+FM   Family: M13
+MD   MEROPS_id: 0830792
+EV   E-Value: 0.0
+SC   Score: 892 bits (2305)
+UP   Uniport_id: P42893
+DE   RecName: Full=Endothelin-converting enzyme 1;
+DE            Short=ECE-1;
+DE            EC=3.4.24.71;
+GN   Name=Ece1;
+end
+
+
+QN   scaffold5_463
+AT   ACT_SITE: E81 E152
+AT   METAL: H78 H82 E159
+DO   Domain: #16-506
+FM   Family: M16
+MD   MEROPS_id: 0922129
+EV   E-Value: 0.0
+SC   Score: 1628 bits (4216)
+UP   Uniport_id: O22941
+DE   RecName: Full=Insulin-degrading enzyme-like 1, peroxisomal;
+DE            EC=3.4.24.-;
+DE   AltName: Full=Insulysin-like 1;
+DE   AltName: Full=Peroxisomal M16 protease;
+DE   AltName: Full=Zinc-metallopeptidase;
+GN   Name=PXM16;
+GN   OrderedLocusNames=At2g41790 {ECO:0000312|Araport:AT2G41790};
+GN   ORFNames=T11A7.11 {ECO:0000312|EMBL:AAC02769.1};
+end
+
+
+QN   scaffold5_487
+AT   ACT_SITE: C334 H801 H809
+DO   Domain: #297-868
+FM   Family: C19
+MD   MEROPS_id: 0712168
+EV   E-Value: 0.0
+SC   Score: 1145 bits (2961)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold5_521
+AT   ACT_SITE: S143 D261 H286
+DO   Domain: 80-302
+FM   Family: S09
+MD   MEROPS_id: 0040390
+EV   E-Value: 8e-08
+SC   Score: 57.8 bits (138)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold5_526
+AT   ACT_SITE: D170
+AT   METAL: D482 D546 D547 D700 E744 D769 D994 D1054
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700021
+EV   E-Value: 1e-98
+SC   Score: 347 bits (890)
+UP   Uniport_id: Q99315
+DE   RecName: Full=Transposon Ty3-G Gag-Pol polyprotein;
+DE   AltName: Full=Gag3-Pol3;
+DE   AltName: Full=Transposon Ty3-1 TYA-TYB polyprotein;
+DE   Contains:
+DE     RecName: Full=Capsid protein;
+DE              Short=CA;
+DE     AltName: Full=p24;
+DE   Contains:
+DE     RecName: Full=Spacer peptide p3;
+DE   Contains:
+DE     RecName: Full=Nucleocapsid protein p11;
+DE              Short=NC;
+DE   Contains:
+DE     RecName: Full=Ty3 protease;
+DE              Short=PR;
+DE              EC=3.4.23.-;
+DE     AltName: Full=p16;
+DE   Contains:
+DE     RecName: Full=Spacer peptide J;
+DE   Contains:
+DE     RecName: Full=Reverse transcriptase/ribonuclease H;
+DE              Short=RT;
+DE              Short=RT-RH;
+DE              EC=2.7.7.49;
+DE              EC=2.7.7.7;
+DE              EC=3.1.26.4;
+DE     AltName: Full=p55;
+DE   Contains:
+DE     RecName: Full=Integrase p61;
+DE              Short=IN;
+DE   Contains:
+DE     RecName: Full=Integrase p58;
+DE              Short=IN;
+GN   Name=TY3B-G; Synonyms=YGRWTy3-1 POL; OrderedLocusNames=YGR109W-B;
+GN   ORFNames=G5984;
+end
+
+
+QN   scaffold6_10
+AT   ACT_SITE: D313 D462
+DO   Domain: #59-537
+FM   Family: A22
+MD   MEROPS_id: 0693956
+EV   E-Value: 0.0
+SC   Score: 664 bits (1712)
+UP   Uniport_id: O12977
+DE   RecName: Full=Presenilin-2;
+DE            Short=PS-2;
+DE            EC=3.4.23.-;
+DE   AltName: Full=Presenilin beta;
+DE            Short=PS-beta;
+GN   Name=psen2;
+end
+
+
+QN   scaffold6_33
+AT   ACT_SITE: C226 H619
+AT   METAL: C90 C93 C110 H123
+AT   BINDING: W100 Y151 Y153 D156
+DO   Domain: NA
+FM   Family: C19
+MD   MEROPS_id: 0710315
+EV   E-Value: 0.0
+SC   Score: 1113 bits (2880)
+UP   Uniport_id: P56399
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 5;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 5;
+DE   AltName: Full=Isopeptidase T;
+DE   AltName: Full=Ubiquitin thioesterase 5;
+DE   AltName: Full=Ubiquitin-specific-processing protease 5;
+GN   Name=Usp5; Synonyms=Isot;
+AT   ACT_SITE: C226 H619
+AT   METAL: C358 C361 C412 C415
+DO   Domain: #167-658
+FM   Family: C19
+MD   MEROPS_id: 0712327
+EV   E-Value: 0.0
+SC   Score: 652 bits (1682)
+UP   Uniport_id: A5D9H7
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 12;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 12;
+DE   AltName: Full=Ubiquitin thioesterase 12;
+DE   AltName: Full=Ubiquitin-specific-processing protease 12;
+GN   Name=USP12;
+end
+
+
+QN   scaffold6_39
+AT   ACT_SITE: D94 D280
+DO   Domain: #63-391
+FM   Family: A01
+MD   MEROPS_id: 0693387
+EV   E-Value: 0.0
+SC   Score: 720 bits (1859)
+UP   Uniport_id: P07267
+DE   RecName: Full=Saccharopepsin;
+DE            EC=3.4.23.25;
+DE   AltName: Full=Aspartate protease;
+DE            Short=PrA;
+DE            Short=Proteinase A;
+DE   AltName: Full=Carboxypeptidase Y-deficient protein 4;
+DE   AltName: Full=Proteinase YSCA;
+DE   Flags: Precursor;
+GN   Name=PEP4; Synonyms=PHO9, PRA1; OrderedLocusNames=YPL154C;
+GN   ORFNames=P2585;
+end
+
+
+QN   scaffold6_51
+AT   ACT_SITE: S91 D213 H270
+AT   BINDING: C216 E271
+DO   Domain: #5-294
+FM   Family: S10
+MD   MEROPS_id: 0941896
+EV   E-Value: 7e-127
+SC   Score: 372 bits (956)
+UP   Uniport_id: P34946
+DE   RecName: Full=Carboxypeptidase S1;
+DE            EC=3.4.16.6;
+end
+
+
+QN   scaffold6_95
+AT   METAL: D384 D395 H458 E493 E507
+AT   BINDING: R73 H364 H458 H467 E493
+DO   Domain: NA
+FM   Family: M24
+MD   MEROPS_id: 0424940
+EV   E-Value: 0.0
+SC   Score: 863 bits (2230)
+UP   Uniport_id: O54975
+DE   RecName: Full=Xaa-Pro aminopeptidase 1;
+DE            EC=3.4.11.9;
+DE   AltName: Full=Aminoacylproline aminopeptidase;
+DE   AltName: Full=Cytosolic aminopeptidase P;
+DE   AltName: Full=Soluble aminopeptidase P;
+DE            Short=sAmp;
+DE   AltName: Full=X-Pro aminopeptidase 1;
+DE   AltName: Full=X-prolyl aminopeptidase 1, soluble;
+GN   Name=Xpnpep1 {ECO:0000312|RGD:621274}; Synonyms=App;
+end
+
+
+QN   scaffold7_10
+AT   METAL: D177 D188 H251 E283 E314
+AT   BINDING: H160 T179 H258
+DO   Domain: #64-320
+FM   Family: M24
+MD   MEROPS_id: 0135297
+EV   E-Value: 1e-107
+SC   Score: 320 bits (819)
+UP   Uniport_id: P0AE18
+DE   RecName: Full=Methionine aminopeptidase {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MetAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   OrderedLocusNames=b0168, JW0163;
+AT   METAL: D177 D188 H251 E283 E314
+AT   BINDING: H160 H258 W300
+DO   Domain: #9-319
+FM   Family: M24
+MD   MEROPS_id: 0446468
+EV   E-Value: 1e-99
+SC   Score: 301 bits (770)
+UP   Uniport_id: Q9ZCD3
+DE   RecName: Full=Methionine aminopeptidase {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MetAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01974}; OrderedLocusNames=RP824;
+end
+
+
+QN   scaffold7_68
+AT   ACT_SITE: E262
+AT   METAL: C77 H261 H265 H271
+DO   Domain: NA
+FM   Family: M12
+MD   MEROPS_id: 0829255
+EV   E-Value: 1e-73
+SC   Score: 248 bits (633)
+UP   Uniport_id: Q10741
+DE   RecName: Full=Disintegrin and metalloproteinase domain-containing protein 10;
+DE            Short=ADAM 10;
+DE            EC=3.4.24.81;
+DE   AltName: Full=Kuzbanian protein homolog;
+DE   AltName: Full=Mammalian disintegrin-metalloprotease;
+DE   AltName: Full=Myelin-associated metalloproteinase;
+DE   AltName: CD_antigen=CD156c;
+DE   Flags: Precursor;
+GN   Name=ADAM10; Synonyms=MADM;
+AT   ACT_SITE: E262
+AT   METAL: D200 H261 H265 H271 C331 N333
+DO   Domain: #105-383
+FM   Family: M12
+MD   MEROPS_id: 0829067
+EV   E-Value: 2e-10
+SC   Score: 67.0 bits (162)
+UP   Uniport_id: E9NW28
+DE   RecName: Full=Zinc metalloproteinase/disintegrin;
+DE   Contains:
+DE     RecName: Full=Snake venom metalloproteinase PMMP-3;
+DE              Short=SVMP;
+DE              EC=3.4.24.-;
+DE   Flags: Precursor; Fragment;
+end
+
+
+QN   scaffold7_114
+AT   ACT_SITE: E531
+AT   METAL: H530 H534 D608
+DO   Domain: #478-707
+FM   Family: M41
+MD   MEROPS_id: 0876325
+EV   E-Value: 0.0
+SC   Score: 1315 bits (3403)
+UP   Uniport_id: P32795
+DE   RecName: Full=Mitochondrial inner membrane i-AAA protease supercomplex subunit YME1;
+DE            EC=3.4.24.-;
+DE   AltName: Full=Protein OSD1;
+DE   AltName: Full=Tat-binding homolog 11;
+DE   AltName: Full=Yeast mitochondrial escape protein 1;
+GN   Name=YME1; Synonyms=OSD1, YTA11; OrderedLocusNames=YPR024W;
+GN   ORFNames=YP9367.04;
+end
+
+
+QN   scaffold8_63
+AT   ACT_SITE: E214
+AT   METAL: H170 D182 E215 D288 H314
+DO   Domain: #40-351
+FM   Family: M28
+MD   MEROPS_id: 0424931
+EV   E-Value: 0.0
+SC   Score: 1001 bits (2588)
+UP   Uniport_id: Q9M1S8
+DE   RecName: Full=Probable glutamate carboxypeptidase AMP1 {ECO:0000305};
+DE            EC=3.4.17.21 {ECO:0000305};
+DE   AltName: Full=Probable glutamate carboxypeptidase 2 {ECO:0000305};
+DE   AltName: Full=Probable glutamate carboxypeptidase II {ECO:0000305};
+DE   AltName: Full=Protein ALTERED MERISTEM PROGRAM 1 {ECO:0000303|PubMed:17006669};
+DE            Short=AtAMP1 {ECO:0000303|PubMed:23603279};
+DE   AltName: Full=Protein CONSTITUTIVE MORPHOGENESIS 2;
+DE   AltName: Full=Protein HAUPTLING {ECO:0000305};
+DE   AltName: Full=Protein MULTIFOLIA {ECO:0000305};
+DE   AltName: Full=Protein PRIMORDIA TIMING;
+GN   Name=AMP1 {ECO:0000303|PubMed:11549767};
+GN   Synonyms=COP2 {ECO:0000305}, HPT {ECO:0000305}, MFO1 {ECO:0000305},
+GN   PT {ECO:0000303|PubMed:11549767};
+GN   OrderedLocusNames=At3g54720 {ECO:0000312|Araport:AT3G54720};
+GN   ORFNames=T5N23_80 {ECO:0000312|EMBL:CAB77592.1};
+end
+
+
+QN   scaffold8_78
+AT   ACT_SITE: D213 H245 S397
+AT   METAL: Q175 D222
+DO   Domain: #174-452
+FM   Family: S08
+MD   MEROPS_id: 0324852
+EV   E-Value: 2e-59
+SC   Score: 203 bits (517)
+UP   Uniport_id: P28842
+DE   RecName: Full=Subtilisin;
+DE            EC=3.4.21.62;
+DE   Flags: Precursor;
+GN   Name=sub1;
+end
+
+
+QN   scaffold8_90
+AT   METAL: D195 D206 H269 E302 E333
+AT   BINDING: H178 T197 H276
+DO   Domain: #77-348
+FM   Family: M24
+MD   MEROPS_id: 0394221
+EV   E-Value: 2e-170
+SC   Score: 483 bits (1242)
+UP   Uniport_id: P0AE18
+DE   RecName: Full=Methionine aminopeptidase {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MetAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   OrderedLocusNames=b0168, JW0163;
+AT   METAL: D195 D206 H269 E302 E333
+AT   BINDING: H178 H276 W319
+DO   Domain: #101-348
+FM   Family: M24
+MD   MEROPS_id: 0138795
+EV   E-Value: 4e-165
+SC   Score: 469 bits (1206)
+UP   Uniport_id: Q9ZCD3
+DE   RecName: Full=Methionine aminopeptidase {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MetAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01974}; OrderedLocusNames=RP824;
+end
+
+
+QN   scaffold8_193
+AT   ACT_SITE: D583
+DO   Domain: NA
+FM   Family: A11
+MD   MEROPS_id: 0138952
+EV   E-Value: 2e-16
+SC   Score: 88.6 bits (218)
+UP   Uniport_id: P10978
+DE   RecName: Full=Retrovirus-related Pol polyprotein from transposon TNT 1-94;
+DE   Includes:
+DE     RecName: Full=Protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+end
+
+
+QN   scaffold8_213
+AT   ACT_SITE: S13 K39
+DO   Domain: #1-96
+FM   Family: S26
+MD   MEROPS_id: 1050347
+EV   E-Value: 7e-43
+SC   Score: 139 bits (351)
+UP   Uniport_id: P42959
+DE   RecName: Full=Signal peptidase I U;
+DE            Short=SPase I;
+DE            EC=3.4.21.89;
+DE   AltName: Full=Leader peptidase I;
+GN   Name=sipU; Synonyms=ycsB; OrderedLocusNames=BSU04010;
+end
+
+
+QN   scaffold9_10
+AT   METAL: D246 D257 H333 E375 E415
+AT   BINDING: H228 H340
+DO   Domain: #156-440
+FM   Family: M24
+MD   MEROPS_id: 0480348
+EV   E-Value: 1e-114
+SC   Score: 347 bits (891)
+UP   Uniport_id: Q59509
+DE   RecName: Full=Methionine aminopeptidase {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MetAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   OrderedLocusNames=MCAP_0675;
+end
+
+
+QN   scaffold9_14
+AT   ACT_SITE: D111 H164 S462
+DO   Domain: #17-504
+FM   Family: S08
+MD   MEROPS_id: 0970286
+EV   E-Value: 9e-48
+SC   Score: 186 bits (472)
+UP   Uniport_id: P29141
+DE   RecName: Full=Minor extracellular protease vpr;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=vpr; OrderedLocusNames=BSU38090; ORFNames=ipa-45r;
+end
+
+
+QN   scaffold9_37
+AT   METAL: D267 D278 H358 E405 E445
+AT   BINDING: H248 H369
+DO   Domain: 219-470
+FM   Family: M24
+MD   MEROPS_id: 0629826
+EV   E-Value: 1e-87
+SC   Score: 280 bits (716)
+UP   Uniport_id: P19994
+DE   RecName: Full=Methionine aminopeptidase 1 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MAP 1 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MetAP 1 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   OrderedLocusNames=BSU01380;
+end
+
+
+QN   scaffold9_41
+AT   ACT_SITE: D79 D278
+DO   Domain: #50-409
+FM   Family: A01
+MD   MEROPS_id: 0428854
+EV   E-Value: 1e-174
+SC   Score: 515 bits (1326)
+UP   Uniport_id: P03955
+DE   RecName: Full=Gastricsin;
+DE            EC=3.4.23.3;
+DE   AltName: Full=Pepsinogen C;
+DE   Flags: Precursor; Fragment;
+GN   Name=PGC;
+end
+
+
+QN   scaffold9_80
+AT   ACT_SITE: S161 D258 H288
+DO   Domain: #54-309
+FM   Family: S09
+MD   MEROPS_id: 0283894
+EV   E-Value: 2e-80
+SC   Score: 251 bits (641)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold10_13
+AT   ACT_SITE: T219
+DO   Domain: 219-437
+FM   Family: T05
+MD   MEROPS_id: 0011829
+EV   E-Value: 3e-141
+SC   Score: 414 bits (1065)
+UP   Uniport_id: Q04728
+DE   RecName: Full=Arginine biosynthesis bifunctional protein ArgJ, mitochondrial {ECO:0000255|HAMAP-Rule:MF_03124};
+DE   AltName: Full=Extracellular mutant protein 40;
+DE   Includes:
+DE     RecName: Full=Glutamate N-acetyltransferase {ECO:0000255|HAMAP-Rule:MF_03124};
+DE              Short=GAT {ECO:0000255|HAMAP-Rule:MF_03124};
+DE              EC=2.3.1.35 {ECO:0000255|HAMAP-Rule:MF_03124};
+DE     AltName: Full=Ornithine acetyltransferase {ECO:0000255|HAMAP-Rule:MF_03124};
+DE              Short=OATase {ECO:0000255|HAMAP-Rule:MF_03124};
+DE     AltName: Full=Ornithine transacetylase {ECO:0000255|HAMAP-Rule:MF_03124};
+DE   Includes:
+DE     RecName: Full=Amino-acid acetyltransferase {ECO:0000255|HAMAP-Rule:MF_03124};
+DE              EC=2.3.1.1 {ECO:0000255|HAMAP-Rule:MF_03124};
+DE     AltName: Full=N-acetylglutamate synthase {ECO:0000255|HAMAP-Rule:MF_03124};
+DE              Short=AGS {ECO:0000255|HAMAP-Rule:MF_03124};
+DE   Contains:
+DE     RecName: Full=Arginine biosynthesis bifunctional protein ArgJ alpha chain {ECO:0000255|HAMAP-Rule:MF_03124};
+DE   Contains:
+DE     RecName: Full=Arginine biosynthesis bifunctional protein ArgJ beta chain {ECO:0000255|HAMAP-Rule:MF_03124};
+DE   Flags: Precursor;
+GN   Name=ARG7 {ECO:0000255|HAMAP-Rule:MF_03124}; Synonyms=ECM40;
+GN   OrderedLocusNames=YMR062C; ORFNames=YM9916.01C;
+end
+
+
+QN   scaffold10_36
+AT   ACT_SITE: E210
+AT   METAL: H209 H213 E276
+DO   Domain: #153-306
+FM   Family: M48
+MD   MEROPS_id: 0889134
+EV   E-Value: 4e-32
+SC   Score: 136 bits (343)
+UP   Uniport_id: Q9D8H7
+DE   RecName: Full=Metalloendopeptidase OMA1, mitochondrial;
+DE            EC=3.4.24.-;
+DE   AltName: Full=Overlapping with the m-AAA protease 1 homolog;
+DE   Flags: Precursor;
+GN   Name=Oma1;
+end
+
+
+QN   scaffold10_105
+AT   ACT_SITE: C113 H169
+DO   Domain: #23-179
+FM   Family: C12
+MD   MEROPS_id: 0640308
+EV   E-Value: 6e-51
+SC   Score: 166 bits (421)
+UP   Uniport_id: Q2TBG8
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase isozyme L3;
+DE            Short=UCH-L3;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Ubiquitin thioesterase L3;
+GN   Name=UCHL3;
+end
+
+
+QN   scaffold10_173
+AT   ACT_SITE: H146 D177 S260
+DO   Domain: #128-444,575-899
+FM   Family: S01
+MD   MEROPS_id: 0967148
+EV   E-Value: 0.0
+SC   Score: 1876 bits (4860)
+UP   Uniport_id: A5AB13
+DE   RecName: Full=Pro-apoptotic serine protease nma111;
+DE            EC=3.4.21.-;
+GN   Name=nma111; ORFNames=An08g08670;
+end
+
+
+QN   scaffold10_209
+AT   ACT_SITE: C84 H207 D225
+DO   Domain: 40-262
+FM   Family: C83
+MD   MEROPS_id: 0081295
+EV   E-Value: 3e-30
+SC   Score: 122 bits (305)
+UP   Uniport_id: Q8YY76CHANGE
+DE   RecName: Full=Alr0975 protein {ECO:0000313|EMBL:BAB72932.1};
+DE   AltName: Full=Primitive phytochelatin synthase {ECO:0000313|EMBL:BAD10973.1};
+GN   Name=alr0975 {ECO:0000313|EMBL:BAD10973.1};
+GN   OrderedLocusNames=alr0975 {ECO:0000313|EMBL:BAB72932.1};
+DE   RecName: Full=Alr0975 protein {ECO:0000313|EMBL:BAB72932.1};
+DE   AltName: Full=Primitive phytochelatin synthase {ECO:0000313|EMBL:BAD10973.1};
+GN   Name=alr0975 {ECO:0000313|EMBL:BAD10973.1};
+GN   OrderedLocusNames=alr0975 {ECO:0000313|EMBL:BAB72932.1};
+end
+
+
+QN   scaffold11_109
+AT   ACT_SITE: D188 H226 S398
+AT   METAL: D148 D197 N239 D289 D332 E362
+DO   Domain: #126-484
+FM   Family: S08
+MD   MEROPS_id: 0983347
+EV   E-Value: 0.0
+SC   Score: 1201 bits (3107)
+UP   Uniport_id: P13134
+DE   RecName: Full=Kexin;
+DE            EC=3.4.21.61;
+DE   AltName: Full=Protease KEX2;
+DE   AltName: Full=Proteinase YSCF;
+DE   Flags: Precursor;
+GN   Name=KEX2; Synonyms=QDS1; OrderedLocusNames=YNL238W; ORFNames=N1122;
+end
+
+
+QN   scaffold11_150
+AT   ACT_SITE: C263 H347 E349
+DO   Domain: #10-394
+FM   Family: C26
+MD   MEROPS_id: 0424913
+EV   E-Value: 0.0
+SC   Score: 666 bits (1718)
+UP   Uniport_id: O82225
+DE   RecName: Full=Gamma-glutamyl peptidase 5 {ECO:0000305};
+DE            EC=3.4.19.- {ECO:0000305};
+GN   Name=GGP5 {ECO:0000305};
+GN   OrderedLocusNames=At2g23970 {ECO:0000312|Araport:AT2G23970};
+end
+
+
+QN   scaffold11_153
+AT   ACT_SITE: D421
+AT   METAL: D733 D797 D798 D951 E995 D1020 D1225 D1285
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700021
+EV   E-Value: 6e-98
+SC   Score: 350 bits (897)
+UP   Uniport_id: Q99315
+DE   RecName: Full=Transposon Ty3-G Gag-Pol polyprotein;
+DE   AltName: Full=Gag3-Pol3;
+DE   AltName: Full=Transposon Ty3-1 TYA-TYB polyprotein;
+DE   Contains:
+DE     RecName: Full=Capsid protein;
+DE              Short=CA;
+DE     AltName: Full=p24;
+DE   Contains:
+DE     RecName: Full=Spacer peptide p3;
+DE   Contains:
+DE     RecName: Full=Nucleocapsid protein p11;
+DE              Short=NC;
+DE   Contains:
+DE     RecName: Full=Ty3 protease;
+DE              Short=PR;
+DE              EC=3.4.23.-;
+DE     AltName: Full=p16;
+DE   Contains:
+DE     RecName: Full=Spacer peptide J;
+DE   Contains:
+DE     RecName: Full=Reverse transcriptase/ribonuclease H;
+DE              Short=RT;
+DE              Short=RT-RH;
+DE              EC=2.7.7.49;
+DE              EC=2.7.7.7;
+DE              EC=3.1.26.4;
+DE     AltName: Full=p55;
+DE   Contains:
+DE     RecName: Full=Integrase p61;
+DE              Short=IN;
+DE   Contains:
+DE     RecName: Full=Integrase p58;
+DE              Short=IN;
+GN   Name=TY3B-G; Synonyms=YGRWTy3-1 POL; OrderedLocusNames=YGR109W-B;
+GN   ORFNames=G5984;
+end
+
+
+QN   scaffold12_1
+AT   ACT_SITE: D170
+AT   METAL: D482 D546 D547 D700 E744 D769 D974 D1034
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700021
+EV   E-Value: 6e-99
+SC   Score: 348 bits (892)
+UP   Uniport_id: Q99315
+DE   RecName: Full=Transposon Ty3-G Gag-Pol polyprotein;
+DE   AltName: Full=Gag3-Pol3;
+DE   AltName: Full=Transposon Ty3-1 TYA-TYB polyprotein;
+DE   Contains:
+DE     RecName: Full=Capsid protein;
+DE              Short=CA;
+DE     AltName: Full=p24;
+DE   Contains:
+DE     RecName: Full=Spacer peptide p3;
+DE   Contains:
+DE     RecName: Full=Nucleocapsid protein p11;
+DE              Short=NC;
+DE   Contains:
+DE     RecName: Full=Ty3 protease;
+DE              Short=PR;
+DE              EC=3.4.23.-;
+DE     AltName: Full=p16;
+DE   Contains:
+DE     RecName: Full=Spacer peptide J;
+DE   Contains:
+DE     RecName: Full=Reverse transcriptase/ribonuclease H;
+DE              Short=RT;
+DE              Short=RT-RH;
+DE              EC=2.7.7.49;
+DE              EC=2.7.7.7;
+DE              EC=3.1.26.4;
+DE     AltName: Full=p55;
+DE   Contains:
+DE     RecName: Full=Integrase p61;
+DE              Short=IN;
+DE   Contains:
+DE     RecName: Full=Integrase p58;
+DE              Short=IN;
+GN   Name=TY3B-G; Synonyms=YGRWTy3-1 POL; OrderedLocusNames=YGR109W-B;
+GN   ORFNames=G5984;
+end
+
+
+QN   scaffold12_6
+AT   ACT_SITE: D16 H25 S286
+DO   Domain: 8-321
+FM   Family: S08
+MD   MEROPS_id: 0973456
+EV   E-Value: 2e-66
+SC   Score: 236 bits (602)
+UP   Uniport_id: C5FPS1
+DE   RecName: Full=Subtilisin-like protease 1;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=SUB1; ORFNames=MCYG_04495;
+end
+
+
+QN   scaffold12_9
+AT   ACT_SITE: E89 E171
+AT   METAL: H86 H90 E179
+DO   Domain: #77-582
+FM   Family: M16
+MD   MEROPS_id: 0928973
+EV   E-Value: 0.0
+SC   Score: 1786 bits (4626)
+UP   Uniport_id: Q9FIH8
+DE   RecName: Full=Stromal processing peptidase, chloroplastic {ECO:0000305};
+DE            EC=3.4.24.- {ECO:0000250|UniProtKB:Q40983};
+DE   AltName: Full=Chloroplast processing enzyme {ECO:0000312|EMBL:AAC39482.1};
+DE   Flags: Precursor;
+GN   Name=SPP {ECO:0000305}; Synonyms=CPE {ECO:0000312|EMBL:AAC39482.1};
+GN   OrderedLocusNames=At5g42390 {ECO:0000312|Araport:AT5G42390};
+GN   ORFNames=MDH9.8 {ECO:0000312|EMBL:BAB10480.1};
+end
+
+
+QN   scaffold12_232
+AT   ACT_SITE: H24 D75 S155
+DO   Domain: #1-171
+FM   Family: S01
+MD   MEROPS_id: 0952452
+EV   E-Value: 4e-89
+SC   Score: 271 bits (694)
+UP   Uniport_id: P15636
+DE   RecName: Full=Protease 1;
+DE            EC=3.4.21.50;
+DE   AltName: Full=API;
+DE   AltName: Full=Lysyl endopeptidase;
+DE   AltName: Full=Protease I;
+DE   Flags: Precursor;
+end
+
+
+QN   scaffold12_271
+AT   ACT_SITE: E262 D344
+AT   METAL: H261 H265 E340
+DO   Domain: #127-411
+FM   Family: M48
+MD   MEROPS_id: 0886122
+EV   E-Value: 0.0
+SC   Score: 748 bits (1930)
+UP   Uniport_id: Q80W54
+DE   RecName: Full=CAAX prenyl protease 1 homolog;
+DE            EC=3.4.24.84;
+DE   AltName: Full=Farnesylated proteins-converting enzyme 1;
+DE            Short=FACE-1;
+DE   AltName: Full=Prenyl protein-specific endoprotease 1;
+DE   AltName: Full=Zinc metalloproteinase Ste24 homolog;
+GN   Name=Zmpste24; Synonyms=Face1;
+end
+
+
+QN   scaffold13_37
+AT   ACT_SITE: K326 R401
+AT   METAL: K314 D319 D337 D397 E399
+DO   Domain: #37-578
+FM   Family: M17
+MD   MEROPS_id: 0930411
+EV   E-Value: 0.0
+SC   Score: 887 bits (2293)
+UP   Uniport_id: Q27245
+DE   RecName: Full=Putative aminopeptidase W07G4.4;
+DE            EC=3.4.11.-;
+GN   Name=lap-2; ORFNames=W07G4.4;
+end
+
+
+QN   scaffold13_68
+AT   ACT_SITE: H192 C252
+DO   Domain: #47-404
+FM   Family: C14
+MD   MEROPS_id: 0318205
+EV   E-Value: 0.0
+SC   Score: 815 bits (2105)
+UP   Uniport_id: Q4WJA1
+DE   RecName: Full=Metacaspase-1A;
+DE            EC=3.4.22.-;
+DE   Flags: Precursor;
+GN   Name=casA; ORFNames=AFUA_1G06700;
+end
+
+
+QN   scaffold14_104
+AT   ACT_SITE: D27 H85 S403
+DO   Domain: #3-470
+FM   Family: S08
+MD   MEROPS_id: 0967754
+EV   E-Value: 2e-11
+SC   Score: 72.0 bits (175)
+UP   Uniport_id: Q02470
+DE   RecName: Full=PII-type proteinase;
+DE            EC=3.4.21.96;
+DE   AltName: Full=Cell wall-associated serine proteinase;
+DE   AltName: Full=LP151;
+DE   AltName: Full=Lactocepin;
+DE   Flags: Precursor;
+GN   Name=prtP;
+end
+
+
+QN   scaffold14_143
+AT   ACT_SITE: C276 H399 H407
+DO   Domain: #184-483
+FM   Family: C19
+MD   MEROPS_id: 0707714
+EV   E-Value: 0.0
+SC   Score: 982 bits (2539)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold14_162
+AT   ACT_SITE: S565 K608
+DO   Domain: #435-668
+FM   Family: S16
+MD   MEROPS_id: 1038992
+EV   E-Value: 0.0
+SC   Score: 1043 bits (2696)
+UP   Uniport_id: Q5BH58
+DE   RecName: Full=Lon protease homolog 2, peroxisomal {ECO:0000255|HAMAP-Rule:MF_03121};
+DE            EC=3.4.21.53 {ECO:0000255|HAMAP-Rule:MF_03121};
+GN   ORFNames=AN0122;
+end
+
+
+QN   scaffold14_171
+AT   ACT_SITE: S311 D408 H434
+DO   Domain: #243-450
+FM   Family: S33
+MD   MEROPS_id: 0210946
+EV   E-Value: 1e-11
+SC   Score: 70.9 bits (172)
+UP   Uniport_id: P42786
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip;
+end
+
+
+QN   scaffold14_232
+AT   ACT_SITE: S210 D416 H477
+AT   BINDING: C419 M478
+DO   Domain: #88-500
+FM   Family: S10
+MD   MEROPS_id: 0942509
+EV   E-Value: 0.0
+SC   Score: 954 bits (2465)
+UP   Uniport_id: P30574
+DE   RecName: Full=Carboxypeptidase Y;
+DE            EC=3.4.16.5;
+DE   AltName: Full=Carboxypeptidase YSCY;
+DE   Flags: Precursor;
+GN   Name=CPY1;
+end
+
+
+QN   scaffold15_4
+AT   ACT_SITE: T28
+DO   Domain: 1-183
+FM   Family: T01
+MD   MEROPS_id: 0180622
+EV   E-Value: 6e-97
+SC   Score: 285 bits (728)
+UP   Uniport_id: A1RX71
+DE   RecName: Full=Proteasome subunit beta 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB2 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=Tpen_0392;
+end
+
+
+QN   scaffold15_131
+AT   ACT_SITE: S535 D615 H647
+DO   Domain: #358-670
+FM   Family: S09
+MD   MEROPS_id: 1120761
+EV   E-Value: 0.0
+SC   Score: 989 bits (2557)
+UP   Uniport_id: Q9P778
+DE   RecName: Full=Dipeptidyl-peptidase 5;
+DE            EC=3.4.14.-;
+DE   AltName: Full=Dipeptidyl-peptidase V;
+DE            Short=DPP V;
+DE            Short=DppV;
+DE   Flags: Precursor;
+GN   ORFNames=SPBC1711.12;
+end
+
+
+QN   scaffold15_132
+AT   ACT_SITE: C542 H758
+AT   METAL: C616 C619 C669 C672
+DO   Domain: #474-803
+FM   Family: C19
+MD   MEROPS_id: 0713894
+EV   E-Value: 0.0
+SC   Score: 891 bits (2302)
+UP   Uniport_id: O57429
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 2;
+DE            EC=3.4.19.12;
+DE   AltName: Full=41 kDa ubiquitin-specific protease;
+DE   AltName: Full=Deubiquitinating enzyme 2;
+DE   AltName: Full=Ubiquitin thioesterase 2;
+DE   AltName: Full=Ubiquitin-specific-processing protease 2;
+GN   Name=USP2; Synonyms=UBP41;
+AT   ACT_SITE: C616 H750 H758
+DO   Domain: #557-798
+FM   Family: C19
+MD   MEROPS_id: 0713618
+EV   E-Value: 9e-86
+SC   Score: 285 bits (729)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold16_14
+AT   ACT_SITE: T35
+DO   Domain: #28-242
+FM   Family: T01
+MD   MEROPS_id: 1092285
+EV   E-Value: 1e-174
+SC   Score: 483 bits (1243)
+UP   Uniport_id: O27270
+DE   RecName: Full=Proteasome subunit beta {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=MTH_1202;
+end
+
+
+QN   scaffold16_41
+AT   ACT_SITE: T17
+DO   Domain: #1-149
+FM   Family: T02
+MD   MEROPS_id: 1096487
+EV   E-Value: 2e-87
+SC   Score: 260 bits (665)
+UP   Uniport_id: Q9H6P5
+DE   RecName: Full=Threonine aspartase 1;
+DE            Short=Taspase-1;
+DE            EC=3.4.25.-;
+DE   Contains:
+DE     RecName: Full=Threonine aspartase subunit alpha;
+DE   Contains:
+DE     RecName: Full=Threonine aspartase subunit beta;
+GN   Name=TASP1; Synonyms=C20orf13;
+end
+
+
+QN   scaffold16_44
+AT   ACT_SITE: D54 D279
+DO   Domain: #19-410
+FM   Family: A01
+MD   MEROPS_id: 0402952
+EV   E-Value: 9e-166
+SC   Score: 479 bits (1234)
+UP   Uniport_id: P00799
+DE   RecName: Full=Mucorpepsin;
+DE            EC=3.4.23.23;
+DE   AltName: Full=Mucor rennin;
+DE   Flags: Precursor;
+end
+
+
+QN   scaffold18_50
+AT   ACT_SITE: E484 S675 D722 H745
+AT   METAL: H437 D447 E485 D513 H602
+DO   Domain: NA
+FM   Family: M28
+MD   MEROPS_id: 0053898
+EV   E-Value: 6e-148
+SC   Score: 461 bits (1186)
+UP   Uniport_id: O54697
+DE   RecName: Full=N-acetylated-alpha-linked acidic dipeptidase-like protein;
+DE            Short=NAALADase L;
+DE            EC=3.4.17.21;
+DE   AltName: Full=100 kDa ileum brush border membrane protein;
+DE            Short=I100;
+DE   AltName: Full=Ileal dipeptidylpeptidase;
+GN   Name=Naaladl1; Synonyms=Naaladl;
+end
+
+
+QN   scaffold18_94
+AT   ACT_SITE: S319 D412 H442
+DO   Domain: 275-442
+FM   Family: S33
+MD   MEROPS_id: 0254795
+EV   E-Value: 8e-33
+SC   Score: 128 bits (322)
+UP   Uniport_id: Q9JZR6
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip; OrderedLocusNames=NMB0927;
+end
+
+
+QN   scaffold19_30
+AT   ACT_SITE: D563 H601 S773
+AT   METAL: D523 D572 N614 D664 D707 E737
+DO   Domain: #519-857
+FM   Family: S08
+MD   MEROPS_id: 0973659
+EV   E-Value: 0.0
+SC   Score: 1091 bits (2822)
+UP   Uniport_id: P13134
+DE   RecName: Full=Kexin;
+DE            EC=3.4.21.61;
+DE   AltName: Full=Protease KEX2;
+DE   AltName: Full=Proteinase YSCF;
+DE   Flags: Precursor;
+GN   Name=KEX2; Synonyms=QDS1; OrderedLocusNames=YNL238W; ORFNames=N1122;
+end
+
+
+QN   scaffold19_69
+AT   ACT_SITE: S675 D750 H783
+AT   BINDING: E226 E227
+DO   Domain: NA
+FM   Family: S09
+MD   MEROPS_id: 1002868
+EV   E-Value: 0.0
+SC   Score: 1336 bits (3458)
+UP   Uniport_id: P97321
+DE   RecName: Full=Prolyl endopeptidase FAP {ECO:0000250|UniProtKB:Q12884};
+DE            EC=3.4.21.26 {ECO:0000269|PubMed:24371721};
+DE   AltName: Full=Dipeptidyl peptidase FAP {ECO:0000250|UniProtKB:Q12884};
+DE            EC=3.4.14.5 {ECO:0000269|PubMed:10629066, ECO:0000269|PubMed:11330865, ECO:0000269|PubMed:15133496, ECO:0000269|PubMed:9688278};
+DE   AltName: Full=Fibroblast activation protein alpha {ECO:0000250|UniProtKB:Q12884};
+DE            Short=FAPalpha {ECO:0000303|PubMed:15133496};
+DE   AltName: Full=Gelatine degradation protease FAP {ECO:0000250|UniProtKB:Q12884};
+DE            EC=3.4.21.- {ECO:0000250|UniProtKB:Q12884};
+DE   AltName: Full=Integral membrane serine protease {ECO:0000250|UniProtKB:Q12884};
+DE   AltName: Full=Post-proline cleaving enzyme {ECO:0000305};
+DE   AltName: Full=Serine integral membrane protease {ECO:0000250|UniProtKB:Q12884};
+DE            Short=SIMP {ECO:0000250|UniProtKB:Q12884};
+DE   AltName: Full=Surface-expressed protease {ECO:0000250|UniProtKB:Q12884};
+DE            Short=Seprase {ECO:0000250|UniProtKB:Q12884};
+DE   Contains:
+DE     RecName: Full=Antiplasmin-cleaving enzyme FAP, soluble form {ECO:0000250|UniProtKB:Q12884};
+DE              Short=APCE {ECO:0000250|UniProtKB:Q12884};
+DE              EC=3.4.14.5 {ECO:0000250|UniProtKB:Q12884};
+DE              EC=3.4.21.- {ECO:0000250|UniProtKB:Q12884};
+DE              EC=3.4.21.26 {ECO:0000250|UniProtKB:Q12884};
+GN   Name=Fap {ECO:0000312|MGI:MGI:109608};
+end
+
+
+QN   scaffold20_24
+AT   ACT_SITE: T43
+DO   Domain: NA
+FM   Family: T01
+MD   MEROPS_id: 1092093
+EV   E-Value: 3e-164
+SC   Score: 457 bits (1176)
+UP   Uniport_id: P28024
+DE   RecName: Full=Proteasome subunit beta type-4;
+DE            EC=3.4.25.1;
+DE   AltName: Full=Macropain beta chain;
+DE   AltName: Full=Multicatalytic endopeptidase complex beta chain;
+DE   AltName: Full=Proteasome beta chain;
+DE   AltName: Full=Proteasome chain 3;
+DE   Flags: Precursor; Fragment;
+GN   Name=psmb4;
+end
+
+
+QN   scaffold20_26
+AT   ACT_SITE: E283 Y371
+AT   METAL: H282 H286 E305
+DO   Domain: #207-443
+FM   Family: M01
+MD   MEROPS_id: 0814880
+EV   E-Value: 0.0
+SC   Score: 1135 bits (2935)
+UP   Uniport_id: Q3SZH7
+DE   RecName: Full=Leukotriene A-4 hydrolase;
+DE            Short=LTA-4 hydrolase;
+DE            EC=3.3.2.6;
+DE   AltName: Full=Leukotriene A(4) hydrolase;
+GN   Name=LTA4H;
+end
+
+
+QN   scaffold20_70
+AT   ACT_SITE: C685 H700 D724
+DO   Domain: NA
+FM   Family: C01
+MD   MEROPS_id: 0427811
+EV   E-Value: 1e-18
+SC   Score: 95.9 bits (237)
+UP   Uniport_id: Q6LAD6
+DE   RecName: Full=Cysteine protease avirulence protein AvrRpt2;
+DE            Short=Avirulence protein AvrRpt2;
+DE            EC=3.4.22.-;
+DE   Flags: Precursor;
+GN   Name=avrRpt2;
+end
+
+
+QN   scaffold21_45
+AT   ACT_SITE: C81 H193 E195
+DO   Domain: #1-244
+FM   Family: C26
+MD   MEROPS_id: 0424889
+EV   E-Value: 0.0
+SC   Score: 948 bits (2450)
+UP   Uniport_id: F4INN2
+DE   RecName: Full=Gamma-glutamyl peptidase 4 {ECO:0000305};
+DE            EC=3.4.19.- {ECO:0000305};
+GN   Name=GGP4 {ECO:0000305};
+GN   OrderedLocusNames=At2g23960 {ECO:0000312|Araport:AT2G23960};
+end
+
+
+QN   scaffold21_88
+AT   ACT_SITE: C86 H191 E193
+DO   Domain: #1-214
+FM   Family: C26
+MD   MEROPS_id: 0424851
+EV   E-Value: 6e-131
+SC   Score: 370 bits (950)
+UP   Uniport_id: F4INN2
+DE   RecName: Full=Gamma-glutamyl peptidase 4 {ECO:0000305};
+DE            EC=3.4.19.- {ECO:0000305};
+GN   Name=GGP4 {ECO:0000305};
+GN   OrderedLocusNames=At2g23960 {ECO:0000312|Araport:AT2G23960};
+end
+
+
+QN   scaffold23_15
+AT   ACT_SITE: S24 D122 H149
+DO   Domain: 1-166
+FM   Family: S33
+MD   MEROPS_id: 0135205
+EV   E-Value: 6e-20
+SC   Score: 88.2 bits (217)
+UP   Uniport_id: P52278
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip; Synonyms=pepI;
+end
+
+
+QN   scaffold23_93
+AT   ACT_SITE: S734 D809 H842
+AT   BINDING: E299 E300
+DO   Domain: NA
+FM   Family: S09
+MD   MEROPS_id: 0993163
+EV   E-Value: 0.0
+SC   Score: 1337 bits (3459)
+UP   Uniport_id: P97321
+DE   RecName: Full=Prolyl endopeptidase FAP {ECO:0000250|UniProtKB:Q12884};
+DE            EC=3.4.21.26 {ECO:0000269|PubMed:24371721};
+DE   AltName: Full=Dipeptidyl peptidase FAP {ECO:0000250|UniProtKB:Q12884};
+DE            EC=3.4.14.5 {ECO:0000269|PubMed:10629066, ECO:0000269|PubMed:11330865, ECO:0000269|PubMed:15133496, ECO:0000269|PubMed:9688278};
+DE   AltName: Full=Fibroblast activation protein alpha {ECO:0000250|UniProtKB:Q12884};
+DE            Short=FAPalpha {ECO:0000303|PubMed:15133496};
+DE   AltName: Full=Gelatine degradation protease FAP {ECO:0000250|UniProtKB:Q12884};
+DE            EC=3.4.21.- {ECO:0000250|UniProtKB:Q12884};
+DE   AltName: Full=Integral membrane serine protease {ECO:0000250|UniProtKB:Q12884};
+DE   AltName: Full=Post-proline cleaving enzyme {ECO:0000305};
+DE   AltName: Full=Serine integral membrane protease {ECO:0000250|UniProtKB:Q12884};
+DE            Short=SIMP {ECO:0000250|UniProtKB:Q12884};
+DE   AltName: Full=Surface-expressed protease {ECO:0000250|UniProtKB:Q12884};
+DE            Short=Seprase {ECO:0000250|UniProtKB:Q12884};
+DE   Contains:
+DE     RecName: Full=Antiplasmin-cleaving enzyme FAP, soluble form {ECO:0000250|UniProtKB:Q12884};
+DE              Short=APCE {ECO:0000250|UniProtKB:Q12884};
+DE              EC=3.4.14.5 {ECO:0000250|UniProtKB:Q12884};
+DE              EC=3.4.21.- {ECO:0000250|UniProtKB:Q12884};
+DE              EC=3.4.21.26 {ECO:0000250|UniProtKB:Q12884};
+GN   Name=Fap {ECO:0000312|MGI:MGI:109608};
+end
+
+
+QN   scaffold24_6
+AT   METAL: D317 D328 H392 E427 E441
+DO   Domain: 259-476
+FM   Family: M24
+MD   MEROPS_id: 0586564
+EV   E-Value: 6e-117
+SC   Score: 363 bits (932)
+UP   Uniport_id: Q5HNJ7
+DE   RecName: Full=Uncharacterized peptidase SERP1271;
+DE            EC=3.4.-.-;
+GN   OrderedLocusNames=SERP1271;
+end
+
+
+QN   scaffold24_61
+AT   ACT_SITE: S568 D641 H672
+DO   Domain: #407-693
+FM   Family: S15
+MD   MEROPS_id: 1026123
+EV   E-Value: 9e-93
+SC   Score: 294 bits (753)
+UP   Uniport_id: P13798
+DE   RecName: Full=Acylamino-acid-releasing enzyme;
+DE            Short=AARE;
+DE            EC=3.4.19.1;
+DE   AltName: Full=Acyl-peptide hydrolase;
+DE            Short=APH;
+DE   AltName: Full=Acylaminoacyl-peptidase;
+DE   AltName: Full=Oxidized protein hydrolase;
+DE            Short=OPH;
+GN   Name=APEH; Synonyms=D3F15S2, D3S48E, DNF15S2;
+end
+
+
+QN   scaffold24_110
+AT   ACT_SITE: E359
+AT   METAL: H358 H362 E388
+DO   Domain: #354-512
+FM   Family: M49
+MD   MEROPS_id: 0065936
+EV   E-Value: 1e-129
+SC   Score: 393 bits (1009)
+UP   Uniport_id: A7RZW4
+DE   RecName: Full=Dipeptidyl peptidase 3;
+DE            EC=3.4.14.4;
+DE   AltName: Full=Dipeptidyl aminopeptidase III;
+DE   AltName: Full=Dipeptidyl arylamidase III;
+DE   AltName: Full=Dipeptidyl peptidase III;
+DE            Short=DPP III;
+GN   Name=dpp3; ORFNames=v1g183903;
+end
+
+
+QN   scaffold25_21
+AT   ACT_SITE: D106 D292
+DO   Domain: #75-403
+FM   Family: A01
+MD   MEROPS_id: 0415869
+EV   E-Value: 0.0
+SC   Score: 749 bits (1934)
+UP   Uniport_id: P07267
+DE   RecName: Full=Saccharopepsin;
+DE            EC=3.4.23.25;
+DE   AltName: Full=Aspartate protease;
+DE            Short=PrA;
+DE            Short=Proteinase A;
+DE   AltName: Full=Carboxypeptidase Y-deficient protein 4;
+DE   AltName: Full=Proteinase YSCA;
+DE   Flags: Precursor;
+GN   Name=PEP4; Synonyms=PHO9, PRA1; OrderedLocusNames=YPL154C;
+GN   ORFNames=P2585;
+end
+
+
+QN   scaffold25_46
+AT   ACT_SITE: E468
+AT   METAL: H421 D431 E469 D497 H584
+DO   Domain: #299-642
+FM   Family: M28
+MD   MEROPS_id: 0195730
+EV   E-Value: 0.0
+SC   Score: 1117 bits (2889)
+UP   Uniport_id: Q7Y228
+DE   RecName: Full=Probable glutamate carboxypeptidase LAMP1 {ECO:0000305};
+DE            EC=3.4.17.21 {ECO:0000305};
+DE   AltName: Full=Protein LIKE AMP1 {ECO:0000303|PubMed:25673776};
+GN   Name=LAMP1 {ECO:0000303|PubMed:25673776};
+GN   OrderedLocusNames=At5g19740 {ECO:0000312|Araport:AT5G19740};
+end
+
+
+QN   scaffold25_59
+AT   METAL: H136 H138 D149
+DO   Domain: #20-326
+FM   Family: M67
+MD   MEROPS_id: 0905129
+EV   E-Value: 0.0
+SC   Score: 646 bits (1666)
+UP   Uniport_id: Q9FVU9
+DE   RecName: Full=COP9 signalosome complex subunit 5b;
+DE            Short=Signalosome subunit 5b;
+DE            EC=3.4.-.-;
+DE   AltName: Full=Jun activation domain-binding homolog 2;
+GN   Name=CSN5B {ECO:0000303|PubMed:23424245};
+GN   Synonyms=AJH2 {ECO:0000303|PubMed:9811788},
+GN   CSN5A {ECO:0000303|PubMed:11742986};
+GN   OrderedLocusNames=At1g71230 {ECO:0000312|Araport:AT1G71230};
+GN   ORFNames=F3I17.12 {ECO:0000312|EMBL:AAG51882.1};
+end
+
+
+QN   scaffold25_86
+AT   ACT_SITE: S117 D171 H203
+DO   Domain: #93-204
+FM   Family: S09
+MD   MEROPS_id: 0424815
+EV   E-Value: 6e-67
+SC   Score: 208 bits (529)
+UP   Uniport_id: Q7JKY3
+DE   RecName: Full=Dipeptidyl peptidase family member 1;
+DE            EC=3.4.14.-;
+GN   Name=dpf-1; ORFNames=T23F1.7;
+end
+
+
+QN   scaffold25_87
+AT   ACT_SITE: T28
+DO   Domain: #24-214
+FM   Family: T01
+MD   MEROPS_id: 1091082
+EV   E-Value: 1e-140
+SC   Score: 394 bits (1012)
+UP   Uniport_id: A3MXQ6
+DE   RecName: Full=Proteasome subunit beta 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB2 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=Pcal_2008;
+end
+
+
+QN   scaffold26_19
+AT   ACT_SITE: S161 D259 H289
+DO   Domain: #16-317
+FM   Family: S09
+MD   MEROPS_id: 0283894
+EV   E-Value: 5e-74
+SC   Score: 234 bits (598)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold26_23
+AT   ACT_SITE: D75 D283
+DO   Domain: #41-402
+FM   Family: A01
+MD   MEROPS_id: 0693965
+EV   E-Value: 2e-155
+SC   Score: 448 bits (1153)
+UP   Uniport_id: P09177
+DE   RecName: Full=Mucorpepsin;
+DE            EC=3.4.23.23;
+DE   AltName: Full=Mucor rennin;
+DE   Flags: Precursor;
+end
+
+
+QN   scaffold26_49
+AT   ACT_SITE: S547 H605
+DO   Domain: #434-637
+FM   Family: S54
+MD   MEROPS_id: 1077239
+EV   E-Value: 8e-136
+SC   Score: 407 bits (1046)
+UP   Uniport_id: Q58EK4
+DE   RecName: Full=Presenilins-associated rhomboid-like protein, mitochondrial;
+DE            EC=3.4.21.105;
+DE   Flags: Precursor;
+GN   Name=parl {ECO:0000250|UniProtKB:Q9H300}; ORFNames=zgc:112986;
+end
+
+
+QN   scaffold27_11
+AT   ACT_SITE: C105 H177
+DO   Domain: #14-245
+FM   Family: C12
+MD   MEROPS_id: 0707351
+EV   E-Value: 1e-141
+SC   Score: 399 bits (1026)
+UP   Uniport_id: Q9JKB1
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase isozyme L3;
+DE            Short=UCH-L3;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Ubiquitin thioesterase L3;
+GN   Name=Uchl3;
+end
+
+
+QN   scaffold27_78
+AT   ACT_SITE: S499 D580 H612
+DO   Domain: #334-635
+FM   Family: S09
+MD   MEROPS_id: 0992224
+EV   E-Value: 0.0
+SC   Score: 1145 bits (2961)
+UP   Uniport_id: V5YMB3
+DE   RecName: Full=Dipeptidyl aminopeptidase BIII {ECO:0000312|EMBL:BAO18428.1};
+DE            Short=DAP BIII {ECO:0000303|PubMed:8892831};
+DE            EC=3.4.14.- {ECO:0000269|PubMed:8892831};
+DE   Flags: Precursor;
+GN   Name=dapb3 {ECO:0000312|EMBL:BAO18428.1};
+end
+
+
+QN   scaffold28_9
+AT   ACT_SITE: D2 H35 S191
+DO   Domain: 1-216
+FM   Family: S08
+MD   MEROPS_id: 0971628
+EV   E-Value: 3e-162
+SC   Score: 459 bits (1181)
+UP   Uniport_id: P87184
+DE   RecName: Full=Alkaline protease 2;
+DE            Short=ALP2;
+DE            EC=3.4.21.63;
+DE   AltName: Full=Autophagic serine protease alp2;
+DE   AltName: Allergen=Asp f 18;
+DE   Flags: Precursor;
+GN   Name=alp2; ORFNames=AFUA_5G09210;
+end
+
+
+QN   scaffold28_27
+AT   ACT_SITE: S565 D815 H847
+DO   Domain: #423-883
+FM   Family: S28
+MD   MEROPS_id: 1054424
+EV   E-Value: 0.0
+SC   Score: 803 bits (2075)
+UP   Uniport_id: P34528
+DE   RecName: Full=Putative serine protease K12H4.7;
+DE            EC=3.4.-.-;
+DE   Flags: Precursor;
+GN   ORFNames=K12H4.7;
+end
+
+
+QN   scaffold29_7
+AT   ACT_SITE: H294 C354
+DO   Domain: #156-505
+FM   Family: C14
+MD   MEROPS_id: 0318210
+EV   E-Value: 0.0
+SC   Score: 708 bits (1827)
+UP   Uniport_id: A3LSY7
+DE   RecName: Full=Metacaspase-1;
+DE            EC=3.4.22.-;
+DE   Flags: Precursor;
+GN   Name=MCA1; ORFNames=PICST_83452;
+end
+
+
+QN   scaffold29_20
+AT   ACT_SITE: D97 E163
+AT   METAL: H95 D129 E164 D192 H442
+AT   BINDING: D192 H225 T327 R340 S414 H442
+DO   Domain: #1-471
+FM   Family: M20
+MD   MEROPS_id: 0842311
+EV   E-Value: 0.0
+SC   Score: 909 bits (2348)
+UP   Uniport_id: Q96KP4
+DE   RecName: Full=Cytosolic non-specific dipeptidase;
+DE            EC=3.4.13.18;
+DE   AltName: Full=CNDP dipeptidase 2;
+DE   AltName: Full=Carnosine dipeptidase II {ECO:0000303|PubMed:25964343};
+DE   AltName: Full=Epididymis secretory protein Li 13 {ECO:0000312|EMBL:ACJ13654.1};
+DE   AltName: Full=Glutamate carboxypeptidase-like protein 1;
+DE   AltName: Full=Peptidase A;
+GN   Name=CNDP2;
+GN   Synonyms=CN2, CPGL, HEL-S-13 {ECO:0000312|EMBL:ACJ13654.1}, PEPA;
+end
+
+
+QN   scaffold29_29
+AT   ACT_SITE: D93 H126 S216
+DO   Domain: #62-249
+FM   Family: S08
+MD   MEROPS_id: 0970795
+EV   E-Value: 1e-22
+SC   Score: 101 bits (251)
+UP   Uniport_id: D4DKQ4
+DE   RecName: Full=Subtilisin-like protease 8;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=SUB8; ORFNames=TRV_07778;
+end
+
+
+QN   scaffold29_72
+AT   ACT_SITE: C201 H202 H211
+DO   Domain: 133-269
+FM   Family: C19
+MD   MEROPS_id: 0431589
+EV   E-Value: 8e-16
+SC   Score: 82.8 bits (203)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold29_92
+AT   ACT_SITE: H162 D163 C207
+DO   Domain: 161-218
+FM   Family: C48
+MD   MEROPS_id: 0728501
+EV   E-Value: 1e-19
+SC   Score: 91.7 bits (226)
+UP   Uniport_id: Q2PS26
+DE   RecName: Full=Ubiquitin-like-specific protease 1D;
+DE            EC=3.4.22.-;
+DE   AltName: Full=Protein OVERLY TOLERANT TO SALT 1;
+GN   Name=ULP1D; Synonyms=OTS1; OrderedLocusNames=At1g60220;
+GN   ORFNames=T13D8.11;
+end
+
+
+QN   scaffold30_22
+AT   ACT_SITE: E489
+AT   METAL: H488 H492 E518
+DO   Domain: #1-702
+FM   Family: M03
+MD   MEROPS_id: 0341003
+EV   E-Value: 0.0
+SC   Score: 900 bits (2325)
+UP   Uniport_id: Q949P2
+DE   RecName: Full=Probable cytosolic oligopeptidase A;
+DE            EC=3.4.24.70;
+DE   AltName: Full=Thimet metalloendopeptidase 2;
+DE   AltName: Full=Zincin-like metalloproteases family protein 2;
+GN   Name=CYOP; Synonyms=TOP2; OrderedLocusNames=At5g10540;
+GN   ORFNames=F12B17.110;
+end
+
+
+QN   scaffold30_29
+AT   ACT_SITE: C209 H510
+AT   METAL: C328 C331 C428 C431
+DO   Domain: #168-547
+FM   Family: C19
+MD   MEROPS_id: 0714722
+EV   E-Value: 0.0
+SC   Score: 944 bits (2441)
+UP   Uniport_id: O57429
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 2;
+DE            EC=3.4.19.12;
+DE   AltName: Full=41 kDa ubiquitin-specific protease;
+DE   AltName: Full=Deubiquitinating enzyme 2;
+DE   AltName: Full=Ubiquitin thioesterase 2;
+DE   AltName: Full=Ubiquitin-specific-processing protease 2;
+GN   Name=USP2; Synonyms=UBP41;
+end
+
+
+QN   scaffold31_24
+AT   ACT_SITE: E592 D660
+AT   METAL: H591 H595 E656
+AT   BINDING: R79
+DO   Domain: 25-763
+FM   Family: M13
+MD   MEROPS_id: 0831065
+EV   E-Value: 0.0
+SC   Score: 969 bits (2504)
+UP   Uniport_id: P08049
+DE   RecName: Full=Neprilysin;
+DE            EC=3.4.24.11 {ECO:0000250|UniProtKB:P08473};
+DE   AltName: Full=Atriopeptidase;
+DE   AltName: Full=Enkephalinase;
+DE   AltName: Full=Neutral endopeptidase 24.11;
+DE            Short=NEP;
+DE            Short=Neutral endopeptidase;
+DE   AltName: Full=Skin fibroblast elastase;
+DE            Short=SFE;
+DE   AltName: CD_antigen=CD10;
+GN   Name=MME;
+end
+
+
+QN   scaffold31_44
+AT   ACT_SITE: E547
+AT   METAL: H546 H550 E576
+DO   Domain: #59-766
+FM   Family: M03
+MD   MEROPS_id: 0819061
+EV   E-Value: 0.0
+SC   Score: 1310 bits (3389)
+UP   Uniport_id: Q94AM1
+DE   RecName: Full=Organellar oligopeptidase A, chloroplastic/mitochondrial;
+DE            EC=3.4.24.70;
+DE   AltName: Full=Thimet metalloendopeptidase 1;
+DE   AltName: Full=Zincin-like metalloproteases family protein 1;
+DE   Flags: Precursor;
+GN   Name=OOP; Synonyms=TOP1; OrderedLocusNames=At5g65620;
+GN   ORFNames=K21L13.14;
+end
+
+
+QN   scaffold31_100
+AT   METAL: H354 H356 D367 H369 C410 H417 H419
+DO   Domain: #270-424
+FM   Family: M67
+MD   MEROPS_id: 0905291
+EV   E-Value: 5e-98
+SC   Score: 305 bits (780)
+UP   Uniport_id: Q9P371
+DE   RecName: Full=AMSH-like protease sst2;
+DE            EC=3.4.19.-;
+DE   AltName: Full=Suppressor of ste12 deletion protein 2;
+GN   Name=sst2; ORFNames=SPAC19B12.10;
+end
+
+
+QN   scaffold32_4
+AT   ACT_SITE: C93 H182 E184
+DO   Domain: #8-284
+FM   Family: C26
+MD   MEROPS_id: 0424878
+EV   E-Value: 0.0
+SC   Score: 1274 bits (3296)
+UP   Uniport_id: F4INN2
+DE   RecName: Full=Gamma-glutamyl peptidase 4 {ECO:0000305};
+DE            EC=3.4.19.- {ECO:0000305};
+GN   Name=GGP4 {ECO:0000305};
+GN   OrderedLocusNames=At2g23960 {ECO:0000312|Araport:AT2G23960};
+end
+
+
+QN   scaffold32_58
+AT   ACT_SITE: E129
+AT   METAL: H128 H132
+DO   Domain: #18-210
+FM   Family: M76
+MD   MEROPS_id: 0907967
+EV   E-Value: 2e-143
+SC   Score: 409 bits (1051)
+UP   Uniport_id: P0CQ27
+DE   RecName: Full=Mitochondrial inner membrane protease ATP23;
+DE            EC=3.4.24.-;
+GN   Name=ATP23; OrderedLocusNames=CNBE3400;
+end
+
+
+QN   scaffold32_73
+AT   ACT_SITE: D205
+DO   Domain: #165-340
+FM   Family: A28
+MD   MEROPS_id: 0699889
+EV   E-Value: 0.0
+SC   Score: 667 bits (1720)
+UP   Uniport_id: A1DCU5
+DE   RecName: Full=DNA damage-inducible protein 1;
+DE            EC=3.4.23.- {ECO:0000250|UniProtKB:I7HUG0};
+GN   Name=ddi1; ORFNames=NFIA_027290;
+end
+
+
+QN   scaffold32_76
+AT   ACT_SITE: C54 H333 H342
+DO   Domain: NA
+FM   Family: C19
+MD   MEROPS_id: 0430282
+EV   E-Value: 1e-22
+SC   Score: 105 bits (263)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold32_136
+AT   ACT_SITE: E73 E144
+AT   METAL: H70 H74 E151
+DO   Domain: #16-899
+FM   Family: M16
+MD   MEROPS_id: 0926229
+EV   E-Value: 0.0
+SC   Score: 2023 bits (5241)
+UP   Uniport_id: O22941
+DE   RecName: Full=Insulin-degrading enzyme-like 1, peroxisomal;
+DE            EC=3.4.24.-;
+DE   AltName: Full=Insulysin-like 1;
+DE   AltName: Full=Peroxisomal M16 protease;
+DE   AltName: Full=Zinc-metallopeptidase;
+GN   Name=PXM16;
+GN   OrderedLocusNames=At2g41790 {ECO:0000312|Araport:AT2G41790};
+GN   ORFNames=T11A7.11 {ECO:0000312|EMBL:AAC02769.1};
+end
+
+
+QN   scaffold32_152
+AT   ACT_SITE: S142 D210 H247
+DO   Domain: #9-265
+FM   Family: S09
+MD   MEROPS_id: 0211162
+EV   E-Value: 4e-29
+SC   Score: 117 bits (292)
+UP   Uniport_id: V5YMB3
+DE   RecName: Full=Dipeptidyl aminopeptidase BIII {ECO:0000312|EMBL:BAO18428.1};
+DE            Short=DAP BIII {ECO:0000303|PubMed:8892831};
+DE            EC=3.4.14.- {ECO:0000269|PubMed:8892831};
+DE   Flags: Precursor;
+GN   Name=dapb3 {ECO:0000312|EMBL:BAO18428.1};
+end
+
+
+QN   scaffold32_157
+AT   ACT_SITE: C90 H180 E182
+DO   Domain: #1-208
+FM   Family: C26
+MD   MEROPS_id: 0424838
+EV   E-Value: 1e-60
+SC   Score: 192 bits (489)
+UP   Uniport_id: Q9M0A7
+DE   RecName: Full=Gamma-glutamyl peptidase 1 {ECO:0000305};
+DE            EC=3.4.19.16 {ECO:0000269|PubMed:21712415};
+GN   Name=GGP1 {ECO:0000303|PubMed:19483696};
+GN   OrderedLocusNames=At4g30530 {ECO:0000312|Araport:AT4G30530};
+end
+
+
+QN   scaffold33_24
+AT   ACT_SITE: D162 D356
+DO   Domain: #132-474
+FM   Family: A01
+MD   MEROPS_id: 0630246
+EV   E-Value: 4e-162
+SC   Score: 466 bits (1199)
+UP   Uniport_id: Q805F3
+DE   RecName: Full=Cathepsin E-A;
+DE            EC=3.4.23.34;
+DE   Flags: Precursor;
+GN   Name=ctse-a; Synonyms=ce1;
+end
+
+
+QN   scaffold33_30
+AT   METAL: D311 D322 H388 E418 E432
+AT   BINDING: R158 H294 H388 H395 E418
+DO   Domain: NA
+FM   Family: M24
+MD   MEROPS_id: 0406898
+EV   E-Value: 3e-40
+SC   Score: 151 bits (382)
+UP   Uniport_id: Q54G06
+DE   RecName: Full=Xaa-Pro aminopeptidase 1;
+DE            EC=3.4.11.9;
+DE   AltName: Full=Aminoacylproline aminopeptidase;
+DE   AltName: Full=Cytosolic aminopeptidase P;
+DE   AltName: Full=Soluble aminopeptidase P;
+DE            Short=sAmp;
+DE   AltName: Full=X-Pro aminopeptidase 1;
+DE   AltName: Full=X-prolyl aminopeptidase 1, soluble;
+GN   Name=xpnpep1; Synonyms=xpnpepl, xpnpepl1; ORFNames=DDB_G0290501;
+end
+
+
+QN   scaffold33_134
+AT   ACT_SITE: C203 H436 H444
+DO   Domain: #156-875
+FM   Family: C19
+MD   MEROPS_id: 0714286
+EV   E-Value: 0.0
+SC   Score: 1806 bits (4679)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold33_144
+AT   ACT_SITE: C34 H299
+AT   METAL: C163 C166 C214 C217
+DO   Domain: #2-346
+FM   Family: C19
+MD   MEROPS_id: 0713930
+EV   E-Value: 0.0
+SC   Score: 612 bits (1577)
+UP   Uniport_id: O57429
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 2;
+DE            EC=3.4.19.12;
+DE   AltName: Full=41 kDa ubiquitin-specific protease;
+DE   AltName: Full=Deubiquitinating enzyme 2;
+DE   AltName: Full=Ubiquitin thioesterase 2;
+DE   AltName: Full=Ubiquitin-specific-processing protease 2;
+GN   Name=USP2; Synonyms=UBP41;
+end
+
+
+QN   scaffold33_149
+AT   ACT_SITE: E495 D564
+AT   METAL: H494 H498 E560
+DO   Domain: #3-669
+FM   Family: M13
+MD   MEROPS_id: 0831089
+EV   E-Value: 2e-117
+SC   Score: 370 bits (950)
+UP   Uniport_id: P97739
+DE   RecName: Full=Endothelin-converting enzyme 1;
+DE            Short=ECE-1;
+DE            EC=3.4.24.71;
+GN   Name=ECE1;
+end
+
+
+QN   scaffold33_188
+AT   ACT_SITE: C328 H438 H446
+DO   Domain: #107-504
+FM   Family: C19
+MD   MEROPS_id: 0711870
+EV   E-Value: 1e-151
+SC   Score: 436 bits (1122)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold33_242
+AT   ACT_SITE: S138 D191 H222
+DO   Domain: #9-245
+FM   Family: S09
+MD   MEROPS_id: 0288754
+EV   E-Value: 4e-63
+SC   Score: 203 bits (516)
+UP   Uniport_id: P13798
+DE   RecName: Full=Acylamino-acid-releasing enzyme;
+DE            Short=AARE;
+DE            EC=3.4.19.1;
+DE   AltName: Full=Acyl-peptide hydrolase;
+DE            Short=APH;
+DE   AltName: Full=Acylaminoacyl-peptidase;
+DE   AltName: Full=Oxidized protein hydrolase;
+DE            Short=OPH;
+GN   Name=APEH; Synonyms=D3F15S2, D3S48E, DNF15S2;
+end
+
+
+QN   scaffold33_249
+AT   ACT_SITE: D66 D209
+DO   Domain: #1-240
+FM   Family: A22
+MD   MEROPS_id: 0694521
+EV   E-Value: 9e-102
+SC   Score: 305 bits (780)
+UP   Uniport_id: Q90ZE4
+DE   RecName: Full=Presenilin-2;
+DE            Short=PS-2;
+DE            Short=Zf-PS2;
+DE            EC=3.4.23.-;
+DE   AltName: Full=Pre2;
+GN   Name=psen2;
+end
+
+
+QN   scaffold34_3
+AT   ACT_SITE: S189 D397 H443
+DO   Domain: #82-469
+FM   Family: S09
+MD   MEROPS_id: 0625679
+EV   E-Value: 2e-114
+SC   Score: 357 bits (915)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold34_24
+AT   ACT_SITE: S33 D191 H250
+AT   BINDING: C194 M251
+DO   Domain: #1-275
+FM   Family: S10
+MD   MEROPS_id: 0942426
+EV   E-Value: 0.0
+SC   Score: 620 bits (1599)
+UP   Uniport_id: P30574
+DE   RecName: Full=Carboxypeptidase Y;
+DE            EC=3.4.16.5;
+DE   AltName: Full=Carboxypeptidase YSCY;
+DE   Flags: Precursor;
+GN   Name=CPY1;
+end
+
+
+QN   scaffold34_37
+AT   ACT_SITE: E270 Y358
+AT   METAL: H269 H273 E292
+DO   Domain: #182-429
+FM   Family: M01
+MD   MEROPS_id: 0813517
+EV   E-Value: 0.0
+SC   Score: 865 bits (2235)
+UP   Uniport_id: Q3SZH7
+DE   RecName: Full=Leukotriene A-4 hydrolase;
+DE            Short=LTA-4 hydrolase;
+DE            EC=3.3.2.6;
+DE   AltName: Full=Leukotriene A(4) hydrolase;
+GN   Name=LTA4H;
+end
+
+
+QN   scaffold34_100
+AT   ACT_SITE: C79 H303
+DO   Domain: #9-433
+FM   Family: C115
+MD   MEROPS_id: 0920635
+EV   E-Value: 0.0
+SC   Score: 546 bits (1408)
+UP   Uniport_id: Q8N5J2
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase MINDY-1 {ECO:0000303|PubMed:27292798};
+DE            EC=3.4.19.12 {ECO:0000269|PubMed:27292798};
+DE   AltName: Full=Deubiquitinating enzyme MINDY-1 {ECO:0000303|PubMed:27292798};
+DE   AltName: Full=Protein FAM63A;
+GN   Name=MINDY1 {ECO:0000312|HGNC:HGNC:25648}; Synonyms=FAM63A, KIAA1390;
+end
+
+
+QN   scaffold35_29
+AT   ACT_SITE: D92 D330
+DO   Domain: #55-462,538-896
+FM   Family: A01
+MD   MEROPS_id: 0261492
+EV   E-Value: 3e-19
+SC   Score: 98.2 bits (243)
+UP   Uniport_id: P00796
+DE   RecName: Full=Renin-2;
+DE            EC=3.4.23.15;
+DE   AltName: Full=Angiotensinogenase;
+DE   AltName: Full=Submandibular gland renin;
+DE   Contains:
+DE     RecName: Full=Renin-2 heavy chain;
+DE   Contains:
+DE     RecName: Full=Renin-2 light chain;
+DE   Flags: Precursor;
+GN   Name=Ren2; Synonyms=Ren-2;
+end
+
+
+QN   scaffold35_71
+AT   ACT_SITE: S960 K1003
+DO   Domain: #749-1071
+FM   Family: S16
+MD   MEROPS_id: 1030583
+EV   E-Value: 0.0
+SC   Score: 1951 bits (5053)
+UP   Uniport_id: A2QCJ2
+DE   RecName: Full=Lon protease homolog, mitochondrial {ECO:0000255|HAMAP-Rule:MF_03120};
+DE            EC=3.4.21.53 {ECO:0000255|HAMAP-Rule:MF_03120};
+DE   Flags: Precursor;
+GN   Name=pim1; ORFNames=An02g03760;
+end
+
+
+QN   scaffold35_116
+AT   ACT_SITE: S185 D285 H314
+DO   Domain: #42-343
+FM   Family: S33
+MD   MEROPS_id: 0136063
+EV   E-Value: 4e-84
+SC   Score: 277 bits (709)
+UP   Uniport_id: Q9PD69
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip; OrderedLocusNames=XF_1510;
+end
+
+
+QN   scaffold35_121
+AT   ACT_SITE: C88 H164
+DO   Domain: 6-224
+FM   Family: C12
+MD   MEROPS_id: 0707579
+EV   E-Value: 6e-177
+SC   Score: 494 bits (1273)
+UP   Uniport_id: O04482
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 2 {ECO:0000303|PubMed:17559514};
+DE            EC=3.4.19.12 {ECO:0000305};
+GN   Name=UCH2 {ECO:0000303|PubMed:17559514};
+GN   OrderedLocusNames=At1g65650 {ECO:0000312|Araport:AT1G65650};
+GN   ORFNames=F5I14.18 {ECO:0000312|EMBL:AAB60914.1};
+end
+
+
+QN   scaffold37_2
+AT   ACT_SITE: T370
+DO   Domain: #6-579
+FM   Family: T03
+MD   MEROPS_id: 1100139
+EV   E-Value: 0.0
+SC   Score: 949 bits (2452)
+UP   Uniport_id: O05218
+DE   RecName: Full=Glutathione hydrolase-like YwrD proenzyme;
+DE            EC=2.3.2.2;
+DE   AltName: Full=Putative gamma-glutamyltransferase YwrD;
+DE            EC=3.4.19.13;
+DE   Contains:
+DE     RecName: Full=Glutathione hydrolase-like YwrD large chain;
+DE   Contains:
+DE     RecName: Full=Glutathione hydrolase-like YwrD small chain;
+GN   Name=ywrD; OrderedLocusNames=BSU36100;
+end
+
+
+QN   scaffold37_40
+AT   ACT_SITE: S232 D403 H430
+DO   Domain: #166-448
+FM   Family: S33
+MD   MEROPS_id: 0214434
+EV   E-Value: 1e-122
+SC   Score: 372 bits (955)
+UP   Uniport_id: P42786
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip;
+end
+
+
+QN   scaffold37_47
+AT   ACT_SITE: E510
+AT   METAL: H509 H513 H516
+DO   Domain: #52-720
+FM   Family: M03
+MD   MEROPS_id: 0817874
+EV   E-Value: 0.0
+SC   Score: 1212 bits (3137)
+UP   Uniport_id: A8N2T3
+DE   RecName: Full=Mitochondrial intermediate peptidase;
+DE            Short=MIP;
+DE            EC=3.4.24.59;
+DE   AltName: Full=Octapeptidyl aminopeptidase;
+DE   Flags: Precursor;
+GN   Name=OCT1; ORFNames=CC1G_01835;
+AT   ACT_SITE: E510
+AT   METAL: H509 H513 E538
+DO   Domain: #55-720
+FM   Family: M03
+MD   MEROPS_id: 0054471
+EV   E-Value: 4e-154
+SC   Score: 491 bits (1265)
+UP   Uniport_id: P35999
+DE   RecName: Full=Mitochondrial intermediate peptidase;
+DE            Short=MIP;
+DE            EC=3.4.24.59;
+DE   Flags: Precursor;
+GN   Name=OCT1; Synonyms=MIP1; OrderedLocusNames=YKL134C;
+end
+
+
+QN   scaffold38_101
+AT   ACT_SITE: D67 D301
+DO   Domain: #42-446
+FM   Family: A01
+MD   MEROPS_id: 0097082
+EV   E-Value: 0.0
+SC   Score: 691 bits (1782)
+UP   Uniport_id: Q9GMY8
+DE   RecName: Full=Pepsin A;
+DE            EC=3.4.23.1;
+DE   Flags: Precursor;
+GN   Name=PGA; Synonyms=PGNA;
+end
+
+
+QN   scaffold39_3
+AT   ACT_SITE: H162 C204
+DO   Domain: #39-304
+FM   Family: C13
+MD   MEROPS_id: 0691257
+EV   E-Value: 0.0
+SC   Score: 665 bits (1717)
+UP   Uniport_id: P49018
+DE   RecName: Full=GPI-anchor transamidase;
+DE            Short=GPI transamidase;
+DE            EC=3.-.-.-;
+DE   Flags: Precursor;
+GN   Name=GPI8; OrderedLocusNames=YDR331W; ORFNames=D9798.2;
+end
+
+
+QN   scaffold39_24
+AT   ACT_SITE: T38
+AT   BINDING: A86
+DO   Domain: 38-239
+FM   Family: T01
+MD   MEROPS_id: 1093792
+EV   E-Value: 0.0
+SC   Score: 538 bits (1386)
+UP   Uniport_id: P28075
+DE   RecName: Full=Proteasome subunit beta type-5;
+DE            EC=3.4.25.1 {ECO:0000250|UniProtKB:P28074};
+DE   AltName: Full=Macropain epsilon chain;
+DE   AltName: Full=Multicatalytic endopeptidase complex epsilon chain;
+DE   AltName: Full=Proteasome chain 6;
+DE   AltName: Full=Proteasome epsilon chain;
+DE   AltName: Full=Proteasome subunit X;
+DE   Flags: Precursor;
+GN   Name=Psmb5;
+end
+
+
+QN   scaffold39_52
+AT   ACT_SITE: S306 H364
+DO   Domain: #148-397
+FM   Family: S54
+MD   MEROPS_id: 1079081
+EV   E-Value: 0.0
+SC   Score: 571 bits (1471)
+UP   Uniport_id: Q58EK4
+DE   RecName: Full=Presenilins-associated rhomboid-like protein, mitochondrial;
+DE            EC=3.4.21.105;
+DE   Flags: Precursor;
+GN   Name=parl {ECO:0000250|UniProtKB:Q9H300}; ORFNames=zgc:112986;
+end
+
+
+QN   scaffold40_5
+AT   ACT_SITE: D326 H358 S523
+DO   Domain: #267-579
+FM   Family: S08
+MD   MEROPS_id: 0978237
+EV   E-Value: 0.0
+SC   Score: 803 bits (2074)
+UP   Uniport_id: C5P4Z8
+DE   RecName: Full=Subtilisin-like protease CPC735_031240;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   ORFNames=CPC735_031240;
+end
+
+
+QN   scaffold40_113
+AT   ACT_SITE: S150 D266 H291
+DO   Domain: #73-307
+FM   Family: S09
+MD   MEROPS_id: 0220876
+EV   E-Value: 1e-12
+SC   Score: 72.4 bits (176)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold41_3
+AT   ACT_SITE: S131 D266 H294
+DO   Domain: #6-312
+FM   Family: S33
+MD   MEROPS_id: 0034740
+EV   E-Value: 2e-62
+SC   Score: 211 bits (536)
+UP   Uniport_id: Q5FMT1
+DE   RecName: Full=Proline iminopeptidase {ECO:0000250|UniProtKB:P52278};
+DE            Short=PIP {ECO:0000250|UniProtKB:P52278};
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase {ECO:0000312|EMBL:AAV41993.1};
+DE            Short=PAP {ECO:0000250|UniProtKB:P52278};
+GN   Name=pip {ECO:0000250|UniProtKB:P52278};
+GN   Synonyms=pepI {ECO:0000250|UniProtKB:P52278};
+GN   OrderedLocusNames=LBA0092;
+end
+
+
+QN   scaffold41_6
+AT   ACT_SITE: E523
+AT   METAL: H522 H526 D598
+AT   BINDING: A260 H440
+DO   Domain: NA
+FM   Family: M41
+MD   MEROPS_id: 0878915
+EV   E-Value: 0.0
+SC   Score: 1169 bits (3023)
+UP   Uniport_id: Q9UQ90
+DE   RecName: Full=Paraplegin {ECO:0000250|UniProtKB:Q3ULF4};
+DE            EC=3.4.24.-;
+DE   AltName: Full=Cell matrix adhesion regulator {ECO:0000312|HGNC:HGNC:11237};
+DE   AltName: Full=Spastic paraplegia 7 protein {ECO:0000312|HGNC:HGNC:11237};
+DE   Flags: Precursor;
+GN   Name=SPG7 {ECO:0000312|HGNC:HGNC:11237};
+GN   Synonyms=CAR, CMAR {ECO:0000312|HGNC:HGNC:11237}, PGN;
+end
+
+
+QN   scaffold41_27
+AT   ACT_SITE: D175 H207 S372
+AT   METAL: Q135 D184
+DO   Domain: 122-432
+FM   Family: S08
+MD   MEROPS_id: 0142420
+EV   E-Value: 6e-140
+SC   Score: 413 bits (1061)
+UP   Uniport_id: P28842
+DE   RecName: Full=Subtilisin;
+DE            EC=3.4.21.62;
+DE   Flags: Precursor;
+GN   Name=sub1;
+end
+
+
+QN   scaffold41_133
+AT   ACT_SITE: E376 Y461
+AT   METAL: H375 H379 E398
+AT   BINDING: E144
+DO   Domain: #53-534
+FM   Family: M01
+MD   MEROPS_id: 0276080
+EV   E-Value: 0.0
+SC   Score: 1917 bits (4966)
+UP   Uniport_id: Q6Q4G3
+DE   RecName: Full=Aminopeptidase Q {ECO:0000305};
+DE            Short=AP-Q {ECO:0000305};
+DE            Short=APQ {ECO:0000303|PubMed:17525158};
+DE            EC=3.4.11.- {ECO:0000269|PubMed:17525158};
+DE   AltName: Full=CHL2 antigen {ECO:0000303|PubMed:14706636};
+DE   AltName: Full=Laeverin {ECO:0000303|PubMed:14706636};
+GN   Name=LVRN {ECO:0000312|HGNC:HGNC:26904};
+GN   Synonyms=AQPEP {ECO:0000312|HGNC:HGNC:26904};
+end
+
+
+QN   scaffold42_34
+AT   ACT_SITE: K283 R357
+AT   METAL: K271 D276 D294 D353 E355
+DO   Domain: #18-507
+FM   Family: M17
+MD   MEROPS_id: 0930476
+EV   E-Value: 0.0
+SC   Score: 820 bits (2117)
+UP   Uniport_id: Q5V9F0
+DE   RecName: Full=Cytosol aminopeptidase;
+DE            EC=3.4.11.1;
+DE   AltName: Full=Leucine aminopeptidase;
+DE            Short=LAP;
+DE   AltName: Full=Leucyl aminopeptidase;
+DE   AltName: Full=Proline aminopeptidase;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+GN   Name=lap; ORFNames=DDB_G0279793;
+end
+
+
+QN   scaffold42_51
+AT   ACT_SITE: E479
+AT   METAL: H478 H482 H485
+DO   Domain: #1-685
+FM   Family: M03
+MD   MEROPS_id: 0817859
+EV   E-Value: 0.0
+SC   Score: 1229 bits (3181)
+UP   Uniport_id: P24155
+DE   RecName: Full=Thimet oligopeptidase;
+DE            EC=3.4.24.15;
+DE   AltName: Full=Endo-oligopeptidase A;
+DE   AltName: Full=Endopeptidase 24.15;
+DE   AltName: Full=PZ-peptidase;
+DE   AltName: Full=Soluble metallo-endopeptidase;
+GN   Name=Thop1;
+end
+
+
+QN   scaffold44_8
+AT   METAL: H86 H88 D99
+DO   Domain: #1-132
+FM   Family: M67
+MD   MEROPS_id: 0906408
+EV   E-Value: 8e-81
+SC   Score: 261 bits (667)
+UP   Uniport_id: B2RYM5
+DE   RecName: Full=Lys-63-specific deubiquitinase BRCC36;
+DE            EC=3.4.19.- {ECO:0000250|UniProtKB:P46736};
+DE   AltName: Full=BRCA1-A complex subunit BRCC36;
+DE   AltName: Full=BRCA1/BRCA2-containing complex subunit 3;
+DE   AltName: Full=BRCA1/BRCA2-containing complex subunit 36;
+DE   AltName: Full=BRISC complex subunit BRCC36;
+GN   Name=Brcc3; Synonyms=Brcc36;
+end
+
+
+QN   scaffold44_29
+AT   ACT_SITE: T34
+DO   Domain: #8-204
+FM   Family: T01
+MD   MEROPS_id: 1087945
+EV   E-Value: 3e-97
+SC   Score: 284 bits (727)
+UP   Uniport_id: A9A4A1
+DE   RecName: Full=Proteasome subunit beta 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB1 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=Nmar_0694;
+end
+
+
+QN   scaffold45_73
+AT   ACT_SITE: D138
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700621
+EV   E-Value: 2e-18
+SC   Score: 92.8 bits (229)
+UP   Uniport_id: P04323
+DE   RecName: Full=Retrovirus-related Pol polyprotein from transposon 17.6;
+DE   Includes:
+DE     RecName: Full=Protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+GN   Name=pol;
+end
+
+
+QN   scaffold46_79
+AT   ACT_SITE: S535 D616 H638
+DO   Domain: #355-670
+FM   Family: S09
+MD   MEROPS_id: 1119704
+EV   E-Value: 0.0
+SC   Score: 598 bits (1541)
+UP   Uniport_id: Q9P778
+DE   RecName: Full=Dipeptidyl-peptidase 5;
+DE            EC=3.4.14.-;
+DE   AltName: Full=Dipeptidyl-peptidase V;
+DE            Short=DPP V;
+DE            Short=DppV;
+DE   Flags: Precursor;
+GN   ORFNames=SPBC1711.12;
+end
+
+
+QN   scaffold46_81
+AT   ACT_SITE: S538 D620 H652
+DO   Domain: #358-675
+FM   Family: S09
+MD   MEROPS_id: 0995905
+EV   E-Value: 0.0
+SC   Score: 1137 bits (2942)
+UP   Uniport_id: Q9P778
+DE   RecName: Full=Dipeptidyl-peptidase 5;
+DE            EC=3.4.14.-;
+DE   AltName: Full=Dipeptidyl-peptidase V;
+DE            Short=DPP V;
+DE            Short=DppV;
+DE   Flags: Precursor;
+GN   ORFNames=SPBC1711.12;
+end
+
+
+QN   scaffold47_45
+AT   ACT_SITE: S171 D407 H441
+DO   Domain: #1-466
+FM   Family: S33
+MD   MEROPS_id: 0213451
+EV   E-Value: 0.0
+SC   Score: 566 bits (1458)
+UP   Uniport_id: Q87DF8
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip; OrderedLocusNames=PD_0727;
+end
+
+
+QN   scaffold48_49
+AT   ACT_SITE: T315
+AT   BINDING: R128 T333 N335 E354 D357
+DO   Domain: #47-504
+FM   Family: T03
+MD   MEROPS_id: 1099890
+EV   E-Value: 7e-128
+SC   Score: 388 bits (997)
+UP   Uniport_id: Q680I5
+DE   RecName: Full=Glutathione hydrolase 2;
+DE            EC=3.4.19.13;
+DE   AltName: Full=Gamma-glutamyltransferase 2;
+DE   AltName: Full=Gamma-glutamyltranspeptidase 2;
+DE            EC=2.3.2.2;
+DE   Flags: Precursor;
+GN   Name=GGT2; OrderedLocusNames=At4g39650; ORFNames=T19P19.40;
+end
+
+
+QN   scaffold48_74
+AT   ACT_SITE: H619 D685 C736
+DO   Domain: #524-750
+FM   Family: C48
+MD   MEROPS_id: 0727243
+EV   E-Value: 2e-56
+SC   Score: 206 bits (524)
+UP   Uniport_id: O13769
+DE   RecName: Full=Ubiquitin-like-specific protease 2;
+DE            EC=3.4.22.-;
+GN   Name=ulp2; ORFNames=SPAC17A5.07c;
+end
+
+
+QN   scaffold49_40
+AT   ACT_SITE: S51 H91
+DO   Domain: #26-175
+FM   Family: S26
+MD   MEROPS_id: 1052356
+EV   E-Value: 2e-106
+SC   Score: 305 bits (780)
+UP   Uniport_id: P15367CHANGE
+DE   RecName: Full=Signal peptidase complex catalytic subunit SEC11;
+DE            EC=3.4.21.89;
+DE   AltName: Full=Secretory protein 11;
+DE   AltName: Full=Signal peptidase I;
+GN   Name=SEC11; OrderedLocusNames=YIR022W;
+end
+
+
+QN   scaffold49_42
+AT   ACT_SITE: S163 D361 H434
+DO   Domain: #27-456
+FM   Family: S33
+MD   MEROPS_id: 0502090
+EV   E-Value: 2e-92
+SC   Score: 290 bits (741)
+UP   Uniport_id: P46547
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip; Synonyms=pap;
+end
+
+
+QN   scaffold49_44
+AT   ACT_SITE: S269 H321
+DO   Domain: #178-392
+FM   Family: S54
+MD   MEROPS_id: 1080482
+EV   E-Value: 0.0
+SC   Score: 554 bits (1427)
+UP   Uniport_id: F4JBM4
+DE   RecName: Full=RHOMBOID-like protein 4 {ECO:0000303|PubMed:16223493, ECO:0000303|PubMed:17181860};
+DE            Short=AtRBL4 {ECO:0000303|PubMed:16223493, ECO:0000303|PubMed:17181860};
+DE            EC=3.4.21.- {ECO:0000305};
+GN   Name=RBL4 {ECO:0000303|PubMed:16223493, ECO:0000303|PubMed:17181860};
+GN   OrderedLocusNames=At3g53780 {ECO:0000312|Araport:AT3G53780};
+GN   ORFNames=F5K20.80 {ECO:0000312|EMBL:CAB88340.1};
+end
+
+
+QN   scaffold49_59
+AT   ACT_SITE: C90 H172
+DO   Domain: #15-226
+FM   Family: C12
+MD   MEROPS_id: 0708238
+EV   E-Value: 3e-104
+SC   Score: 316 bits (809)
+UP   Uniport_id: Q9WUP7
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase isozyme L5;
+DE            Short=UCH-L5;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Ubiquitin C-terminal hydrolase UCH37;
+DE   AltName: Full=Ubiquitin thioesterase L5;
+GN   Name=Uchl5; Synonyms=Uch37;
+end
+
+
+QN   scaffold51_56
+AT   ACT_SITE: S274 D431 H491
+DO   Domain: #209-512
+FM   Family: S33
+MD   MEROPS_id: 0135620
+EV   E-Value: 5e-74
+SC   Score: 245 bits (626)
+UP   Uniport_id: P42786
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip;
+end
+
+
+QN   scaffold51_69
+AT   ACT_SITE: T10
+DO   Domain: NA
+FM   Family: T01
+MD   MEROPS_id: 0002258
+EV   E-Value: 3e-124
+SC   Score: 356 bits (914)
+UP   Uniport_id: Q9YER0
+DE   RecName: Full=Proteasome subunit beta 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 2 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB2 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=APE_0521.1;
+end
+
+
+QN   scaffold52_17
+AT   ACT_SITE: E320 Y402
+AT   METAL: H319 H323 E342
+AT   BINDING: E152
+DO   Domain: NA
+FM   Family: M01
+MD   MEROPS_id: 0813793
+EV   E-Value: 0.0
+SC   Score: 1089 bits (2817)
+UP   Uniport_id: Q6Q4G3
+DE   RecName: Full=Aminopeptidase Q {ECO:0000305};
+DE            Short=AP-Q {ECO:0000305};
+DE            Short=APQ {ECO:0000303|PubMed:17525158};
+DE            EC=3.4.11.- {ECO:0000269|PubMed:17525158};
+DE   AltName: Full=CHL2 antigen {ECO:0000303|PubMed:14706636};
+DE   AltName: Full=Laeverin {ECO:0000303|PubMed:14706636};
+GN   Name=LVRN {ECO:0000312|HGNC:HGNC:26904};
+GN   Synonyms=AQPEP {ECO:0000312|HGNC:HGNC:26904};
+end
+
+
+QN   scaffold52_46
+AT   ACT_SITE: D469 E533
+AT   METAL: H467 D501 E534 E568 H825
+DO   Domain: #329-850
+FM   Family: M20
+MD   MEROPS_id: 0851975
+EV   E-Value: 0.0
+SC   Score: 1065 bits (2755)
+UP   Uniport_id: Q17VU8
+DE   RecName: Full=Succinyl-diaminopimelate desuccinylase {ECO:0000255|HAMAP-Rule:MF_01690};
+DE            Short=SDAP desuccinylase {ECO:0000255|HAMAP-Rule:MF_01690};
+DE            EC=3.5.1.18 {ECO:0000255|HAMAP-Rule:MF_01690};
+DE   AltName: Full=N-succinyl-LL-2,6-diaminoheptanedioate amidohydrolase {ECO:0000255|HAMAP-Rule:MF_01690};
+GN   Name=dapE {ECO:0000255|HAMAP-Rule:MF_01690};
+GN   OrderedLocusNames=Hac_1507;
+end
+
+
+QN   scaffold53_2
+AT   ACT_SITE: C355 H460 D477
+DO   Domain: 350-508
+FM   Family: C86
+MD   MEROPS_id: 0744726
+EV   E-Value: 1e-32
+SC   Score: 135 bits (340)
+UP   Uniport_id: Q9M391
+DE   RecName: Full=Ataxin-3 homolog;
+DE            EC=3.4.19.12;
+DE   AltName: Full=MJD1a-like;
+DE   AltName: Full=Machado-Joseph disease-like protein;
+GN   OrderedLocusNames=At3g54130; ORFNames=F24B22.90;
+end
+
+
+QN   scaffold53_30
+AT   ACT_SITE: S205 D396 H424
+DO   Domain: #32-448
+FM   Family: S33
+MD   MEROPS_id: 0624567
+EV   E-Value: 8e-85
+SC   Score: 274 bits (700)
+UP   Uniport_id: A5FIF5
+DE   RecName: Full=Proline iminopeptidase {ECO:0000250|UniProtKB:O05420};
+DE            Short=PIP {ECO:0000250|UniProtKB:O05420};
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase {ECO:0000250|UniProtKB:O05420};
+DE            Short=PAP {ECO:0000250|UniProtKB:O05420};
+GN   Name=fpaP; OrderedLocusNames=Fjoh_1984;
+end
+
+
+QN   scaffold54_16
+AT   ACT_SITE: C106 H419 H428
+DO   Domain: 65-476
+FM   Family: C19
+MD   MEROPS_id: 0346006
+EV   E-Value: 3e-140
+SC   Score: 415 bits (1067)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold54_18
+AT   ACT_SITE: E92 E165
+AT   METAL: H89 H93 E190
+DO   Domain: #79-947
+FM   Family: M16
+MD   MEROPS_id: 0926732
+EV   E-Value: 0.0
+SC   Score: 1804 bits (4672)
+UP   Uniport_id: Q9LJL3
+DE   RecName: Full=Presequence protease 1, chloroplastic/mitochondrial;
+DE            Short=AtPreP1;
+DE            Short=PreP 1;
+DE            EC=3.4.24.-;
+DE   AltName: Full=Zinc metalloprotease 1;
+DE            Short=AtZnMP1;
+DE   Flags: Precursor;
+GN   Name=PREP1; Synonyms=ZNMP1; OrderedLocusNames=At3g19170;
+GN   ORFNames=MVI11.6, MVI11.7, MVI11_8;
+end
+
+
+QN   scaffold55_25
+AT   ACT_SITE: S78 D146 H174
+DO   Domain: #4-194
+FM   Family: S09
+MD   MEROPS_id: 1003100
+EV   E-Value: 2e-13
+SC   Score: 74.7 bits (182)
+UP   Uniport_id: P80227
+DE   RecName: Full=Acylamino-acid-releasing enzyme;
+DE            Short=AARE;
+DE            EC=3.4.19.1;
+DE   AltName: Full=Acyl-peptide hydrolase;
+DE            Short=APH;
+DE   AltName: Full=Acylaminoacyl-peptidase;
+GN   Name=APEH;
+end
+
+
+QN   scaffold57_36
+AT   ACT_SITE: D792
+DO   Domain: NA
+FM   Family: A11
+MD   MEROPS_id: 0138952
+EV   E-Value: 7e-19
+SC   Score: 97.1 bits (240)
+UP   Uniport_id: P10978
+DE   RecName: Full=Retrovirus-related Pol polyprotein from transposon TNT 1-94;
+DE   Includes:
+DE     RecName: Full=Protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+end
+
+
+QN   scaffold57_81
+AT   ACT_SITE: E630 D698
+AT   METAL: H629 H633 E694
+DO   Domain: #85-806
+FM   Family: M13
+MD   MEROPS_id: 0831729
+EV   E-Value: 0.0
+SC   Score: 1396 bits (3613)
+UP   Uniport_id: Q9W5Y0
+DE   RecName: Full=Neprilysin-3 {ECO:0000303|PubMed:24395329};
+DE            EC=3.4.24.11 {ECO:0000250|UniProtKB:Q8T062};
+GN   Name=Nep3 {ECO:0000303|PubMed:24395329,
+GN   ECO:0000312|FlyBase:FBgn0031081};
+GN   ORFNames=CG9565 {ECO:0000312|FlyBase:FBgn0031081};
+end
+
+
+QN   scaffold58_9
+AT   ACT_SITE: C514 H812
+AT   METAL: C670 C673 C722 C725
+DO   Domain: #448-846
+FM   Family: C19
+MD   MEROPS_id: 0711558
+EV   E-Value: 0.0
+SC   Score: 1172 bits (3033)
+UP   Uniport_id: O57429
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 2;
+DE            EC=3.4.19.12;
+DE   AltName: Full=41 kDa ubiquitin-specific protease;
+DE   AltName: Full=Deubiquitinating enzyme 2;
+DE   AltName: Full=Ubiquitin thioesterase 2;
+DE   AltName: Full=Ubiquitin-specific-processing protease 2;
+GN   Name=USP2; Synonyms=UBP41;
+AT   ACT_SITE: C670 H804 H812
+DO   Domain: #502-845
+FM   Family: C19
+MD   MEROPS_id: 0713618
+EV   E-Value: 9e-21
+SC   Score: 100 bits (250)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold58_60
+AT   ACT_SITE: E282 D350
+AT   METAL: H281 H285 E346
+DO   Domain: #1-428
+FM   Family: M13
+MD   MEROPS_id: 0830497
+EV   E-Value: 9e-72
+SC   Score: 241 bits (616)
+UP   Uniport_id: O16796
+DE   RecName: Full=Neprilysin-11;
+DE            EC=3.4.24.-;
+GN   Name=nep-11; ORFNames=F18A12.8;
+end
+
+
+QN   scaffold59_44
+AT   ACT_SITE: E643
+AT   METAL: H500 E503 H585
+DO   Domain: NA
+FM   Family: M14
+MD   MEROPS_id: 0056160
+EV   E-Value: 1e-36
+SC   Score: 145 bits (366)
+UP   Uniport_id: P18143
+DE   RecName: Full=Zinc carboxypeptidase {ECO:0000303|PubMed:2118139};
+DE            EC=3.4.17.18 {ECO:0000269|PubMed:399};
+DE   AltName: Full=Cpase SG {ECO:0000303|PubMed:2118139};
+DE            Short=CPSG;
+DE   Flags: Precursor;
+GN   Name=scpD;
+end
+
+
+QN   scaffold60_12
+AT   ACT_SITE: E519
+AT   METAL: H580 H582 D593
+DO   Domain: #497-623
+FM   Family: M67
+MD   MEROPS_id: 0518107
+EV   E-Value: 6e-06
+SC   Score: 54.3 bits (129)
+UP   Uniport_id: D4GTS4
+DE   RecName: Full=Desampylase;
+DE            EC=3.4.19.15 {ECO:0000269|PubMed:22970855};
+DE   AltName: Full=HvJAMM1;
+GN   OrderedLocusNames=HVO_2505; ORFNames=C498_07813;
+end
+
+
+QN   scaffold61_26
+AT   ACT_SITE: S149 D227 H262
+DO   Domain: #1-283
+FM   Family: S09
+MD   MEROPS_id: 0999332
+EV   E-Value: 4e-179
+SC   Score: 498 bits (1282)
+UP   Uniport_id: B2RIT0
+DE   RecName: Full=Dipeptidyl-peptidase 5 {ECO:0000303|PubMed:24398682};
+DE            Short=DPP5 {ECO:0000303|PubMed:24398682};
+DE            EC=3.4.14.- {ECO:0000269|PubMed:24398682};
+DE   AltName: Full=MER034615 {ECO:0000303|PubMed:24398682};
+DE   Flags: Precursor;
+GN   Name=dpp5 {ECO:0000303|PubMed:24398682};
+GN   OrderedLocusNames=PGN_0756 {ECO:0000312|EMBL:BAG33275.1};
+end
+
+
+QN   scaffold62_10
+AT   ACT_SITE: S67 D190 H215
+DO   Domain: #10-232
+FM   Family: S09
+MD   MEROPS_id: 0203963
+EV   E-Value: 3e-12
+SC   Score: 70.9 bits (172)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold63_25
+AT   ACT_SITE: C1192 H1318 E1320
+DO   Domain: #1091-1338
+FM   Family: C26
+MD   MEROPS_id: 0506127
+EV   E-Value: 0.0
+SC   Score: 1439 bits (3725)
+UP   Uniport_id: F4INN2
+DE   RecName: Full=Gamma-glutamyl peptidase 4 {ECO:0000305};
+DE            EC=3.4.19.- {ECO:0000305};
+GN   Name=GGP4 {ECO:0000305};
+GN   OrderedLocusNames=At2g23960 {ECO:0000312|Araport:AT2G23960};
+end
+
+
+QN   scaffold63_26
+AT   ACT_SITE: K283 R357
+AT   METAL: K271 D276 D294 D353 E355
+DO   Domain: #23-510
+FM   Family: M17
+MD   MEROPS_id: 0930111
+EV   E-Value: 0.0
+SC   Score: 862 bits (2228)
+UP   Uniport_id: Q5V9F0
+DE   RecName: Full=Cytosol aminopeptidase;
+DE            EC=3.4.11.1;
+DE   AltName: Full=Leucine aminopeptidase;
+DE            Short=LAP;
+DE   AltName: Full=Leucyl aminopeptidase;
+DE   AltName: Full=Proline aminopeptidase;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+GN   Name=lap; ORFNames=DDB_G0279793;
+end
+
+
+QN   scaffold63_41
+AT   ACT_SITE: E535
+AT   METAL: H534 H538 E590
+DO   Domain: #500-741
+FM   Family: M49
+MD   MEROPS_id: 0884980
+EV   E-Value: 0.0
+SC   Score: 1130 bits (2923)
+UP   Uniport_id: O55096
+DE   RecName: Full=Dipeptidyl peptidase 3;
+DE            EC=3.4.14.4;
+DE   AltName: Full=Dipeptidyl aminopeptidase III;
+DE   AltName: Full=Dipeptidyl arylamidase III;
+DE   AltName: Full=Dipeptidyl peptidase III;
+DE            Short=DPP III;
+DE   AltName: Full=Enkephalinase B;
+GN   Name=Dpp3;
+end
+
+
+QN   scaffold64_7
+AT   ACT_SITE: D80 D261
+DO   Domain: #42-334
+FM   Family: A01
+MD   MEROPS_id: 0404977
+EV   E-Value: 8e-116
+SC   Score: 347 bits (891)
+UP   Uniport_id: O76856
+DE   RecName: Full=Cathepsin D;
+DE            EC=3.4.23.5;
+DE   AltName: Full=Ddp44;
+DE   Flags: Precursor;
+GN   Name=ctsD; Synonyms=CatD; ORFNames=DDB_G0279411;
+end
+
+
+QN   scaffold64_44
+AT   ACT_SITE: S127 D379 H410
+DO   Domain: #1-445
+FM   Family: S28
+MD   MEROPS_id: 1054571
+EV   E-Value: 0.0
+SC   Score: 545 bits (1403)
+UP   Uniport_id: P34528
+DE   RecName: Full=Putative serine protease K12H4.7;
+DE            EC=3.4.-.-;
+DE   Flags: Precursor;
+GN   ORFNames=K12H4.7;
+end
+
+
+QN   scaffold65_82
+AT   ACT_SITE: T31
+DO   Domain: #25-231
+FM   Family: T01
+MD   MEROPS_id: 1092352
+EV   E-Value: 5e-169
+SC   Score: 469 bits (1208)
+UP   Uniport_id: B1L6S7
+DE   RecName: Full=Proteasome subunit beta 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB1 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=Kcr_1410;
+end
+
+
+QN   scaffold68_81
+AT   ACT_SITE: S160 D362 H391
+DO   Domain: #1-427
+FM   Family: S33
+MD   MEROPS_id: 0029768
+EV   E-Value: 0.0
+SC   Score: 527 bits (1358)
+UP   Uniport_id: P46541
+DE   RecName: Full=Proline iminopeptidase;
+DE            Short=PIP;
+DE            EC=3.4.11.5;
+DE   AltName: Full=Prolyl aminopeptidase;
+DE            Short=PAP;
+GN   Name=pip;
+end
+
+
+QN   scaffold68_82
+AT   ACT_SITE: D170
+AT   METAL: D482 D546 D547 D700 E744 D769 D994 D1054
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700021
+EV   E-Value: 1e-98
+SC   Score: 347 bits (890)
+UP   Uniport_id: Q99315
+DE   RecName: Full=Transposon Ty3-G Gag-Pol polyprotein;
+DE   AltName: Full=Gag3-Pol3;
+DE   AltName: Full=Transposon Ty3-1 TYA-TYB polyprotein;
+DE   Contains:
+DE     RecName: Full=Capsid protein;
+DE              Short=CA;
+DE     AltName: Full=p24;
+DE   Contains:
+DE     RecName: Full=Spacer peptide p3;
+DE   Contains:
+DE     RecName: Full=Nucleocapsid protein p11;
+DE              Short=NC;
+DE   Contains:
+DE     RecName: Full=Ty3 protease;
+DE              Short=PR;
+DE              EC=3.4.23.-;
+DE     AltName: Full=p16;
+DE   Contains:
+DE     RecName: Full=Spacer peptide J;
+DE   Contains:
+DE     RecName: Full=Reverse transcriptase/ribonuclease H;
+DE              Short=RT;
+DE              Short=RT-RH;
+DE              EC=2.7.7.49;
+DE              EC=2.7.7.7;
+DE              EC=3.1.26.4;
+DE     AltName: Full=p55;
+DE   Contains:
+DE     RecName: Full=Integrase p61;
+DE              Short=IN;
+DE   Contains:
+DE     RecName: Full=Integrase p58;
+DE              Short=IN;
+GN   Name=TY3B-G; Synonyms=YGRWTy3-1 POL; OrderedLocusNames=YGR109W-B;
+GN   ORFNames=G5984;
+end
+
+
+QN   scaffold68_113
+AT   ACT_SITE: D222 D289
+DO   Domain: 81-373
+FM   Family: A22
+MD   MEROPS_id: 0491953
+EV   E-Value: 2e-174
+SC   Score: 506 bits (1304)
+UP   Uniport_id: Q8TCT8
+DE   RecName: Full=Signal peptide peptidase-like 2A {ECO:0000303|PubMed:15385547, ECO:0000312|HGNC:HGNC:30227};
+DE            Short=SPP-like 2A {ECO:0000303|PubMed:15385547};
+DE            Short=SPPL2a {ECO:0000303|PubMed:15385547};
+DE            EC=3.4.23.-;
+DE   AltName: Full=Intramembrane protease 3 {ECO:0000303|PubMed:12139484};
+DE            Short=IMP-3 {ECO:0000303|PubMed:12139484};
+DE   AltName: Full=Presenilin-like protein 2;
+DE   Flags: Precursor;
+GN   Name=SPPL2A {ECO:0000303|PubMed:15385547,
+GN   ECO:0000312|HGNC:HGNC:30227};
+GN   Synonyms=IMP3 {ECO:0000303|PubMed:12139484}, PSL2; ORFNames=PSEC0147;
+end
+
+
+QN   scaffold68_132
+AT   METAL: H89 D197 E231 D281 H375
+AT   BINDING: H155 E230 D281 H284 K309 Y316
+DO   Domain: #5-403
+FM   Family: M18
+MD   MEROPS_id: 0879443
+EV   E-Value: 0.0
+SC   Score: 728 bits (1879)
+UP   Uniport_id: Q2UPZ7
+DE   RecName: Full=Aspartyl aminopeptidase;
+DE            Short=DAP;
+DE            EC=3.4.11.21;
+GN   Name=dapA; ORFNames=AO090005001447;
+end
+
+
+QN   scaffold68_139
+AT   ACT_SITE: D291 H341 S605
+DO   Domain: #216-670
+FM   Family: S08
+MD   MEROPS_id: 0975369
+EV   E-Value: 0.0
+SC   Score: 1427 bits (3695)
+UP   Uniport_id: P29141
+DE   RecName: Full=Minor extracellular protease vpr;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=vpr; OrderedLocusNames=BSU38090; ORFNames=ipa-45r;
+end
+
+
+QN   scaffold69_61
+AT   ACT_SITE: D33 D243
+DO   Domain: 27-380
+FM   Family: A01
+MD   MEROPS_id: 0204665
+EV   E-Value: 5e-21
+SC   Score: 97.8 bits (242)
+UP   Uniport_id: Q9GMY7
+DE   RecName: Full=Pepsin A;
+DE            EC=3.4.23.1;
+DE   Flags: Precursor;
+GN   Name=PGA; Synonyms=PGNA;
+end
+
+
+QN   scaffold69_62
+AT   ACT_SITE: D340 D554 D729 D970
+DO   Domain: #305-691,695-1101
+FM   Family: A01
+MD   MEROPS_id: 0429677
+EV   E-Value: 1e-58
+SC   Score: 210 bits (534)
+UP   Uniport_id: P28712
+DE   RecName: Full=Pepsin II-1;
+DE            EC=3.4.23.1;
+DE   AltName: Full=Pepsin A;
+DE   Flags: Precursor;
+end
+
+
+QN   scaffold70_22
+AT   ACT_SITE: C2
+DO   Domain: 2-179
+FM   Family: C44
+MD   MEROPS_id: 0003314
+EV   E-Value: 3e-08
+SC   Score: 58.9 bits (141)
+UP   Uniport_id: Q06203
+DE   RecName: Full=Amidophosphoribosyltransferase;
+DE            Short=ATase;
+DE            EC=2.4.2.14;
+DE   AltName: Full=Glutamine phosphoribosylpyrophosphate amidotransferase;
+DE            Short=GPAT;
+DE   Flags: Precursor;
+GN   Name=PPAT; Synonyms=GPAT;
+DE   RecName: Full=Amidophosphoribosyltransferase;
+DE            Short=ATase;
+DE            EC=2.4.2.14;
+DE   AltName: Full=Glutamine phosphoribosylpyrophosphate amidotransferase;
+DE            Short=GPAT;
+DE   Flags: Precursor;
+GN   Name=PPAT; Synonyms=GPAT;
+end
+
+
+QN   scaffold70_55
+AT   ACT_SITE: S143 D286 H325
+DO   Domain: #25-332
+FM   Family: S09
+MD   MEROPS_id: 0424819
+EV   E-Value: 3e-119
+SC   Score: 348 bits (894)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold71_10
+AT   ACT_SITE: E264 Y349
+AT   METAL: H263 H267 E286
+AT   BINDING: E86
+DO   Domain: NA
+FM   Family: M01
+MD   MEROPS_id: 0813264
+EV   E-Value: 9e-09
+SC   Score: 63.9 bits (154)
+UP   Uniport_id: Q6Q4G3
+DE   RecName: Full=Aminopeptidase Q {ECO:0000305};
+DE            Short=AP-Q {ECO:0000305};
+DE            Short=APQ {ECO:0000303|PubMed:17525158};
+DE            EC=3.4.11.- {ECO:0000269|PubMed:17525158};
+DE   AltName: Full=CHL2 antigen {ECO:0000303|PubMed:14706636};
+DE   AltName: Full=Laeverin {ECO:0000303|PubMed:14706636};
+GN   Name=LVRN {ECO:0000312|HGNC:HGNC:26904};
+GN   Synonyms=AQPEP {ECO:0000312|HGNC:HGNC:26904};
+end
+
+
+QN   scaffold73_80
+AT   ACT_SITE: C138 H431 N453
+DO   Domain: #67-512
+FM   Family: C01
+MD   MEROPS_id: 0703063
+EV   E-Value: 0.0
+SC   Score: 865 bits (2236)
+UP   Uniport_id: P87362
+DE   RecName: Full=Bleomycin hydrolase;
+DE            Short=BH;
+DE            Short=BLM hydrolase;
+DE            Short=BMH;
+DE            EC=3.4.22.40;
+DE   AltName: Full=Aminopeptidase H;
+GN   Name=BLMH;
+end
+
+
+QN   scaffold73_84
+AT   ACT_SITE: D91 D273
+DO   Domain: #55-379
+FM   Family: A01
+MD   MEROPS_id: 0569659
+EV   E-Value: 0.0
+SC   Score: 579 bits (1492)
+UP   Uniport_id: P10602
+DE   RecName: Full=Rhizopuspepsin-1;
+DE            EC=3.4.23.21;
+DE   AltName: Full=Aspartate protease;
+DE   Flags: Precursor;
+GN   Name=RNAP;
+end
+
+
+QN   scaffold73_85
+AT   ACT_SITE: D105 D287
+DO   Domain: #73-393
+FM   Family: A01
+MD   MEROPS_id: 0569659
+EV   E-Value: 7e-176
+SC   Score: 499 bits (1284)
+UP   Uniport_id: P10602
+DE   RecName: Full=Rhizopuspepsin-1;
+DE            EC=3.4.23.21;
+DE   AltName: Full=Aspartate protease;
+DE   Flags: Precursor;
+GN   Name=RNAP;
+end
+
+
+QN   scaffold75_52
+AT   METAL: H120 H122 D133
+DO   Domain: #1-316
+FM   Family: M67
+MD   MEROPS_id: 0905714
+EV   E-Value: 0.0
+SC   Score: 633 bits (1632)
+UP   Uniport_id: Q9LT08
+DE   RecName: Full=26S proteasome non-ATPase regulatory subunit 14 homolog;
+DE            EC=3.4.19.-;
+DE   AltName: Full=26S proteasome regulatory subunit RPN11;
+DE            Short=AtRPN11;
+GN   Name=RPN11; OrderedLocusNames=At5g23540; ORFNames=MQM1.19;
+end
+
+
+QN   scaffold76_4
+AT   ACT_SITE: E505
+AT   METAL: H504 H508
+DO   Domain: #304-730
+FM   Family: M36
+MD   MEROPS_id: 0858775
+EV   E-Value: 0.0
+SC   Score: 1261 bits (3262)
+UP   Uniport_id: Q2U1G7
+DE   RecName: Full=Extracellular metalloproteinase NpI;
+DE            EC=3.4.24.-;
+DE   AltName: Full=Elastinolytic metalloproteinase NpI;
+DE   AltName: Full=Fungalysin NpI;
+DE   AltName: Full=Neutral protease I;
+DE   Flags: Precursor;
+GN   Name=NpI; ORFNames=AO090011000036;
+end
+
+
+QN   scaffold77_9
+AT   ACT_SITE: C407 H536 E538
+DO   Domain: 201-557
+FM   Family: C26
+MD   MEROPS_id: 0424833
+EV   E-Value: 0.0
+SC   Score: 1037 bits (2681)
+UP   Uniport_id: Q9M0A7
+DE   RecName: Full=Gamma-glutamyl peptidase 1 {ECO:0000305};
+DE            EC=3.4.19.16 {ECO:0000269|PubMed:21712415};
+GN   Name=GGP1 {ECO:0000303|PubMed:19483696};
+GN   OrderedLocusNames=At4g30530 {ECO:0000312|Araport:AT4G30530};
+end
+
+
+QN   scaffold78_3
+AT   ACT_SITE: C95 H225 E227
+DO   Domain: #2-287
+FM   Family: C26
+MD   MEROPS_id: 0424857
+EV   E-Value: 0.0
+SC   Score: 668 bits (1724)
+UP   Uniport_id: Q9M0A7
+DE   RecName: Full=Gamma-glutamyl peptidase 1 {ECO:0000305};
+DE            EC=3.4.19.16 {ECO:0000269|PubMed:21712415};
+GN   Name=GGP1 {ECO:0000303|PubMed:19483696};
+GN   OrderedLocusNames=At4g30530 {ECO:0000312|Araport:AT4G30530};
+end
+
+
+QN   scaffold78_22
+AT   ACT_SITE: E84 E154
+AT   METAL: H81 H85 E161
+DO   Domain: #40-462
+FM   Family: M16
+MD   MEROPS_id: 0924055
+EV   E-Value: 0.0
+SC   Score: 896 bits (2315)
+UP   Uniport_id: Q42290
+DE   RecName: Full=Probable mitochondrial-processing peptidase subunit beta, mitochondrial;
+DE            EC=3.4.24.64;
+DE   AltName: Full=Beta-MPP;
+DE   Flags: Precursor;
+GN   OrderedLocusNames=At3g02090 {ECO:0000312|Araport:AT3G02090};
+GN   ORFNames=F1C9.12 {ECO:0000312|EMBL:AAF14827.1};
+end
+
+
+QN   scaffold78_97
+AT   ACT_SITE: D134 H189 S468
+DO   Domain: #105-529
+FM   Family: S08
+MD   MEROPS_id: 0988231
+EV   E-Value: 0.0
+SC   Score: 1079 bits (2791)
+UP   Uniport_id: P29141
+DE   RecName: Full=Minor extracellular protease vpr;
+DE            EC=3.4.21.-;
+DE   Flags: Precursor;
+GN   Name=vpr; OrderedLocusNames=BSU38090; ORFNames=ipa-45r;
+end
+
+
+QN   scaffold78_98
+AT   ACT_SITE: D175 H222 S335
+DO   Domain: 163-536
+FM   Family: S08
+MD   MEROPS_id: 0191561
+EV   E-Value: 2e-33
+SC   Score: 138 bits (347)
+UP   Uniport_id: P29145
+DE   RecName: Full=PC3-like endoprotease variant B;
+DE            EC=3.4.21.-;
+DE   AltName: Full=SPC3;
+DE   Flags: Precursor;
+end
+
+
+QN   scaffold78_103
+AT   ACT_SITE: D126 C129 H188 H269
+AT   BINDING: I187
+DO   Domain: #118-269
+FM   Family: C85
+MD   MEROPS_id: 0744072
+EV   E-Value: 8e-109
+SC   Score: 320 bits (819)
+UP   Uniport_id: Q567B1
+DE   RecName: Full=Ubiquitin thioesterase OTU1;
+DE            EC=3.4.19.12 {ECO:0000250|UniProtKB:Q5VVQ6};
+GN   Name=yod1; ORFNames=zgc:112182;
+end
+
+
+QN   scaffold80_14
+AT   ACT_SITE: D223 H255 S376
+DO   Domain: 209-386
+FM   Family: S08
+MD   MEROPS_id: 0980070
+EV   E-Value: 3e-37
+SC   Score: 142 bits (358)
+UP   Uniport_id: P12547
+DE   RecName: Full=Alkaline protease 1;
+DE            Short=ALP;
+DE            EC=3.4.21.63;
+DE   AltName: Full=Aspergillopeptidase B;
+DE   AltName: Full=Aspergillus proteinase B;
+DE   AltName: Full=Elastase;
+DE   AltName: Full=Elastinolytic serine proteinase;
+DE   AltName: Full=Oryzin;
+DE   Flags: Precursor;
+GN   Name=alp1; Synonyms=alk1, alp, alpA; ORFNames=AO090003001036;
+end
+
+
+QN   scaffold81_9
+AT   ACT_SITE: T70
+AT   BINDING: A118
+DO   Domain: #70-273
+FM   Family: T01
+MD   MEROPS_id: 1088731
+EV   E-Value: 0.0
+SC   Score: 564 bits (1453)
+UP   Uniport_id: P30656
+DE   RecName: Full=Proteasome subunit beta type-5;
+DE            EC=3.4.25.1;
+DE   AltName: Full=Macropain subunit PRE2;
+DE   AltName: Full=Multicatalytic endopeptidase complex subunit PRE2;
+DE   AltName: Full=Proteasome component PRE2;
+DE   AltName: Full=Proteinase YSCE subunit PRE2;
+DE   Flags: Precursor;
+GN   Name=PRE2; Synonyms=DOA3, PRG1; OrderedLocusNames=YPR103W;
+GN   ORFNames=P8283.10;
+end
+
+
+QN   scaffold81_10
+AT   ACT_SITE: T29
+DO   Domain: #28-232
+FM   Family: T01
+MD   MEROPS_id: 0424828
+EV   E-Value: 8e-158
+SC   Score: 439 bits (1130)
+UP   Uniport_id: A2BN24
+DE   RecName: Full=Proteasome subunit beta 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB1 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=Hbut_1564;
+end
+
+
+QN   scaffold81_15
+AT   ACT_SITE: H284 C340
+DO   Domain: #166-496
+FM   Family: C14
+MD   MEROPS_id: 0318210
+EV   E-Value: 0.0
+SC   Score: 547 bits (1409)
+UP   Uniport_id: A3LSY7
+DE   RecName: Full=Metacaspase-1;
+DE            EC=3.4.22.-;
+DE   Flags: Precursor;
+GN   Name=MCA1; ORFNames=PICST_83452;
+end
+
+
+QN   scaffold81_24
+AT   ACT_SITE: S761 K804
+DO   Domain: #609-867
+FM   Family: S16
+MD   MEROPS_id: 1037765
+EV   E-Value: 0.0
+SC   Score: 1389 bits (3596)
+UP   Uniport_id: Q2IIK1
+DE   RecName: Full=Lon protease {ECO:0000255|HAMAP-Rule:MF_01973};
+DE            EC=3.4.21.53 {ECO:0000255|HAMAP-Rule:MF_01973};
+DE   AltName: Full=ATP-dependent protease La {ECO:0000255|HAMAP-Rule:MF_01973};
+GN   Name=lon {ECO:0000255|HAMAP-Rule:MF_01973};
+GN   OrderedLocusNames=Adeh_1707;
+end
+
+
+QN   scaffold82_49
+AT   ACT_SITE: C285 H757 H765
+DO   Domain: 273-788
+FM   Family: C19
+MD   MEROPS_id: 0708830
+EV   E-Value: 3e-56
+SC   Score: 208 bits (529)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold83_10
+AT   ACT_SITE: E549
+AT   METAL: H548 H552 D624
+AT   BINDING: A286 H466
+DO   Domain: NA
+FM   Family: M41
+MD   MEROPS_id: 0860797
+EV   E-Value: 0.0
+SC   Score: 1357 bits (3511)
+UP   Uniport_id: Q7TT47
+DE   RecName: Full=Paraplegin;
+DE            EC=3.4.24.-;
+DE   Flags: Precursor;
+GN   Name=Spg7;
+end
+
+
+QN   scaffold86_11
+AT   ACT_SITE: D268 H299 S462
+AT   METAL: Q230 D277
+DO   Domain: #216-516
+FM   Family: S08
+MD   MEROPS_id: 0970119
+EV   E-Value: 2e-166
+SC   Score: 486 bits (1251)
+UP   Uniport_id: P28842
+DE   RecName: Full=Subtilisin;
+DE            EC=3.4.21.62;
+DE   Flags: Precursor;
+GN   Name=sub1;
+end
+
+
+QN   scaffold86_14
+AT   ACT_SITE: D313 H344 S506
+AT   METAL: Q276 D322
+DO   Domain: NA
+FM   Family: S08
+MD   MEROPS_id: 0970119
+EV   E-Value: 0.0
+SC   Score: 603 bits (1556)
+UP   Uniport_id: P28842
+DE   RecName: Full=Subtilisin;
+DE            EC=3.4.21.62;
+DE   Flags: Precursor;
+GN   Name=sub1;
+end
+
+
+QN   scaffold87_5
+AT   ACT_SITE: S133 D234 H264
+DO   Domain: #16-285
+FM   Family: S09
+MD   MEROPS_id: 0283894
+EV   E-Value: 8e-67
+SC   Score: 215 bits (547)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold89_8
+AT   ACT_SITE: D58 D253
+DO   Domain: #19-379
+FM   Family: A01
+MD   MEROPS_id: 0692332
+EV   E-Value: 0.0
+SC   Score: 627 bits (1617)
+UP   Uniport_id: Q29079
+DE   RecName: Full=Pregnancy-associated glycoprotein 2;
+DE            Short=PAG 2;
+DE            EC=3.4.23.-;
+DE   Flags: Precursor;
+GN   Name=PAG2;
+end
+
+
+QN   scaffold89_16
+AT   METAL: H118 D134 E176 D223
+DO   Domain: #39-257
+FM   Family: M28
+MD   MEROPS_id: 1113269
+EV   E-Value: 2e-49
+SC   Score: 164 bits (414)
+UP   Uniport_id: C4JHZ6
+DE   RecName: Full=Probable zinc metalloprotease UREG_01421;
+DE            EC=3.4.-.-;
+DE   Flags: Precursor;
+GN   ORFNames=UREG_01421;
+end
+
+
+QN   scaffold89_38
+AT   METAL: D334 D345 H424 E451 E474
+AT   BINDING: H317 H431
+DO   Domain: #240-499
+FM   Family: M24
+MD   MEROPS_id: 0480805
+EV   E-Value: 2e-136
+SC   Score: 407 bits (1046)
+UP   Uniport_id: P69000
+DE   RecName: Full=Methionine aminopeptidase {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            Short=MetAP {ECO:0000255|HAMAP-Rule:MF_01974};
+DE            EC=3.4.11.18 {ECO:0000255|HAMAP-Rule:MF_01974};
+DE   AltName: Full=Peptidase M {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   Name=map {ECO:0000255|HAMAP-Rule:MF_01974};
+GN   OrderedLocusNames=CA_C3111;
+end
+
+
+QN   scaffold92_19
+AT   ACT_SITE: D36 D245
+DO   Domain: #4-397
+FM   Family: A01
+MD   MEROPS_id: 0604826
+EV   E-Value: 0.0
+SC   Score: 691 bits (1784)
+UP   Uniport_id: P56819
+DE   RecName: Full=Beta-secretase 1;
+DE            EC=3.4.23.46;
+DE   AltName: Full=Aspartyl protease 2;
+DE            Short=ASP2;
+DE            Short=Asp 2;
+DE   AltName: Full=Beta-site amyloid precursor protein cleaving enzyme 1;
+DE            Short=Beta-site APP cleaving enzyme 1;
+DE   AltName: Full=Memapsin-2;
+DE   AltName: Full=Membrane-associated aspartic protease 2;
+DE   Flags: Precursor;
+GN   Name=Bace1; Synonyms=Bace;
+end
+
+
+QN   scaffold93_6
+AT   ACT_SITE: C280 H435 N455
+DO   Domain: #8-600
+FM   Family: C02
+MD   MEROPS_id: 0706529
+EV   E-Value: 0.0
+SC   Score: 1519 bits (3932)
+UP   Uniport_id: Q9R1S8
+DE   RecName: Full=Calpain-7;
+DE            EC=3.4.22.-;
+DE   AltName: Full=PalB homolog;
+DE            Short=PalBH;
+GN   Name=Capn7; Synonyms=Palbh;
+end
+
+
+QN   scaffold96_30
+AT   ACT_SITE: S207 D333 H360
+DO   Domain: #94-447
+FM   Family: S09
+MD   MEROPS_id: 0499008
+EV   E-Value: 3e-63
+SC   Score: 219 bits (557)
+UP   Uniport_id: Q1PET6
+DE   RecName: Full=Probable isoprenylcysteine alpha-carbonyl methylesterase ICMEL2;
+DE            EC=3.1.1.n2;
+DE   AltName: Full=Isoprenylcysteine methylesterase-like protein 2;
+GN   Name=ICMEL2; OrderedLocusNames=At3g02410; ORFNames=F16B3.4;
+end
+
+
+QN   scaffold97_26
+AT   METAL: H56 D58 E159 H232 H253
+AT   BINDING: H186 R264 D324
+DO   Domain: #33-396
+FM   Family: M19
+MD   MEROPS_id: 0802003
+EV   E-Value: 0.0
+SC   Score: 646 bits (1667)
+UP   Uniport_id: P31429
+DE   RecName: Full=Dipeptidase 1;
+DE            EC=3.4.13.19;
+DE   AltName: Full=43 kDa renal band 3-related protein;
+DE   AltName: Full=Microsomal dipeptidase;
+DE   Flags: Precursor;
+GN   Name=DPEP1;
+end
+
+
+QN   scaffold99_26
+AT   ACT_SITE: D213 D261
+DO   Domain: #2-430
+FM   Family: A22
+MD   MEROPS_id: 0528401
+EV   E-Value: 0.0
+SC   Score: 666 bits (1719)
+UP   Uniport_id: Q8TCT9
+DE   RecName: Full=Minor histocompatibility antigen H13;
+DE            EC=3.4.23.-;
+DE   AltName: Full=Intramembrane protease 1;
+DE            Short=IMP-1;
+DE            Short=IMPAS-1;
+DE            Short=hIMP1;
+DE   AltName: Full=Presenilin-like protein 3;
+DE   AltName: Full=Signal peptide peptidase;
+GN   Name=HM13; Synonyms=H13, IMP1, PSL3, SPP; ORFNames=MSTP086;
+end
+
+
+QN   scaffold100_7
+AT   ACT_SITE: S741 K784
+DO   Domain: #589-837
+FM   Family: S16
+MD   MEROPS_id: 1036075
+EV   E-Value: 0.0
+SC   Score: 1532 bits (3967)
+UP   Uniport_id: Q6C0L7
+DE   RecName: Full=Lon protease homolog 2, peroxisomal {ECO:0000255|HAMAP-Rule:MF_03121};
+DE            EC=3.4.21.53 {ECO:0000255|HAMAP-Rule:MF_03121};
+GN   OrderedLocusNames=YALI0F23595g;
+end
+
+
+QN   scaffold100_35
+AT   ACT_SITE: C321 H1079
+AT   METAL: C471 C474 C990 C993
+DO   Domain: #270-1131
+FM   Family: C19
+MD   MEROPS_id: 0710659
+EV   E-Value: 0.0
+SC   Score: 1602 bits (4147)
+UP   Uniport_id: B2GUZ1
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 4;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 4;
+DE   AltName: Full=Ubiquitin thioesterase 4;
+DE   AltName: Full=Ubiquitin-specific-processing protease 4;
+GN   Name=Usp4;
+AT   ACT_SITE: C321 H1071 H1079
+DO   Domain: #310-763,920-1123
+FM   Family: C19
+MD   MEROPS_id: 0401056
+EV   E-Value: 5e-38
+SC   Score: 159 bits (401)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold102_55
+AT   METAL: H302 H304 D315 H317 C359 H366 H368
+DO   Domain: #233-375
+FM   Family: M67
+MD   MEROPS_id: 0906747
+EV   E-Value: 0.0
+SC   Score: 530 bits (1365)
+UP   Uniport_id: Q6TH47
+DE   RecName: Full=STAM-binding protein-like A;
+DE            EC=3.4.19.-;
+GN   Name=stambpa; Synonyms=amsh, stambp;
+end
+
+
+QN   scaffold105_43
+AT   ACT_SITE: E238
+AT   METAL: H237 H241 H247
+DO   Domain: #132-348
+FM   Family: M80
+MD   MEROPS_id: 0327828
+EV   E-Value: 2e-119
+SC   Score: 348 bits (892)
+UP   Uniport_id: O94580
+DE   RecName: Full=Ubiquitin and WLM domain-containing metalloprotease SPCC1442.07c;
+DE            EC=3.4.24.-;
+GN   ORFNames=SPCC1442.07c;
+end
+
+
+QN   scaffold105_71
+AT   ACT_SITE: H124 D155 S238
+DO   Domain: #104-411,571-898
+FM   Family: S01
+MD   MEROPS_id: 0966827
+EV   E-Value: 0.0
+SC   Score: 1868 bits (4839)
+UP   Uniport_id: Q1E3N5
+DE   RecName: Full=Pro-apoptotic serine protease NMA111;
+DE            EC=3.4.21.-;
+GN   Name=NMA111; ORFNames=CIMG_02828;
+end
+
+
+QN   scaffold106_6
+AT   ACT_SITE: E1204
+AT   METAL: H1151 D1170 E1205 D1232 H1309
+DO   Domain: #1102-1341
+FM   Family: M28
+MD   MEROPS_id: 0253586
+EV   E-Value: 1e-100
+SC   Score: 331 bits (848)
+UP   Uniport_id: P37302
+DE   RecName: Full=Aminopeptidase Y;
+DE            EC=3.4.11.15;
+DE   Flags: Precursor;
+GN   Name=APE3; OrderedLocusNames=YBR286W; ORFNames=YBR2024;
+end
+
+
+QN   scaffold108_22
+AT   ACT_SITE: C229 H503 H512
+DO   Domain: 189-540
+FM   Family: C19
+MD   MEROPS_id: 0710572
+EV   E-Value: 3e-84
+SC   Score: 275 bits (703)
+UP   Uniport_id: Q9UHP3
+DE   RecName: Full=Ubiquitin carboxyl-terminal hydrolase 25;
+DE            EC=3.4.19.12;
+DE   AltName: Full=Deubiquitinating enzyme 25;
+DE   AltName: Full=USP on chromosome 21;
+DE   AltName: Full=Ubiquitin thioesterase 25;
+DE   AltName: Full=Ubiquitin-specific-processing protease 25;
+GN   Name=USP25; Synonyms=USP21;
+end
+
+
+QN   scaffold111_24
+AT   ACT_SITE: D64
+AT   METAL: D296 D360 D361 D683 D726
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700778
+EV   E-Value: 3e-32
+SC   Score: 140 bits (353)
+UP   Uniport_id: P0CT41
+DE   RecName: Full=Transposon Tf2-12 polyprotein;
+DE   AltName: Full=Retrotransposable element Tf2 155 kDa protein;
+GN   Name=Tf2-12; Synonyms=Tf2-43; ORFNames=SPCC1020.14;
+end
+
+
+QN   scaffold112_17
+AT   ACT_SITE: T38
+DO   Domain: #24-242
+FM   Family: T01
+MD   MEROPS_id: 1089889
+EV   E-Value: 0.0
+SC   Score: 501 bits (1289)
+UP   Uniport_id: B8D673
+DE   RecName: Full=Proteasome subunit beta 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+GN   Name=psmB1 {ECO:0000255|HAMAP-Rule:MF_02113};
+GN   OrderedLocusNames=DKAM_1278;
+end
+
+
+QN   scaffold112_21
+AT   METAL: D398 D409 H472 E507 E521
+AT   BINDING: R71 H378 H472 H481 E507
+DO   Domain: NA
+FM   Family: M24
+MD   MEROPS_id: 0424876
+EV   E-Value: 0.0
+SC   Score: 978 bits (2528)
+UP   Uniport_id: Q6P1B1
+DE   RecName: Full=Xaa-Pro aminopeptidase 1;
+DE            EC=3.4.11.9;
+DE   AltName: Full=Aminoacylproline aminopeptidase;
+DE   AltName: Full=Cytosolic aminopeptidase P;
+DE   AltName: Full=Soluble aminopeptidase P;
+DE            Short=sAmp;
+DE   AltName: Full=X-Pro aminopeptidase 1;
+DE   AltName: Full=X-prolyl aminopeptidase 1, soluble;
+GN   Name=Xpnpep1 {ECO:0000312|EMBL:AAH65174.1,
+GN   ECO:0000312|MGI:MGI:2180003};
+end
+
+
+QN   scaffold113_3
+AT   ACT_SITE: D70 D342
+DO   Domain: #38-486
+FM   Family: A01
+MD   MEROPS_id: 0384404
+EV   E-Value: 2e-180
+SC   Score: 517 bits (1331)
+UP   Uniport_id: Q9GMY8
+DE   RecName: Full=Pepsin A;
+DE            EC=3.4.23.1;
+DE   Flags: Precursor;
+GN   Name=PGA; Synonyms=PGNA;
+end
+
+
+QN   scaffold115_6
+AT   ACT_SITE: C88 H181 E183
+DO   Domain: #1-241
+FM   Family: C26
+MD   MEROPS_id: 0424827
+EV   E-Value: 0.0
+SC   Score: 999 bits (2582)
+UP   Uniport_id: F4INN2
+DE   RecName: Full=Gamma-glutamyl peptidase 4 {ECO:0000305};
+DE            EC=3.4.19.- {ECO:0000305};
+GN   Name=GGP4 {ECO:0000305};
+GN   OrderedLocusNames=At2g23960 {ECO:0000312|Araport:AT2G23960};
+end
+
+
+QN   scaffold129_5
+AT   ACT_SITE: S146 K149 Y235
+AT   BINDING: R249
+DO   Domain: #84-484
+FM   Family: S12
+MD   MEROPS_id: 1007040
+EV   E-Value: 0.0
+SC   Score: 607 bits (1566)
+UP   Uniport_id: P15555CHANGE
+DE   RecName: Full=D-alanyl-D-alanine carboxypeptidase;
+DE            Short=DD-carboxypeptidase;
+DE            Short=DD-peptidase;
+DE            EC=3.4.16.4;
+DE   Flags: Precursor;
+end
+
+
+QN   scaffold153_2
+AT   ACT_SITE: D134
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0427552
+EV   E-Value: 1e-61
+SC   Score: 227 bits (579)
+UP   Uniport_id: P03556
+DE   RecName: Full=Enzymatic polyprotein;
+DE   Includes:
+DE     RecName: Full=Aspartic protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+GN   ORFNames=ORF V;
+end
+
+
+QN   scaffold160_1
+AT   ACT_SITE: D559
+DO   Domain: 549-643
+FM   Family: A28
+MD   MEROPS_id: 0701167
+EV   E-Value: 2e-10
+SC   Score: 69.7 bits (169)
+UP   Uniport_id: P20825
+DE   RecName: Full=Retrovirus-related Pol polyprotein from transposon 297;
+DE   Includes:
+DE     RecName: Full=Protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+GN   Name=pol;
+end
+
+
+QN   scaffold164_5
+AT   ACT_SITE: D119
+AT   METAL: D389 D453 D454
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700282
+EV   E-Value: 3e-74
+SC   Score: 266 bits (679)
+UP   Uniport_id: Q7TD08
+DE   RecName: Full=Enzymatic polyprotein;
+DE   Includes:
+DE     RecName: Full=Aspartic protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+GN   ORFNames=ORF V;
+end
+
+
+QN   scaffold179_1
+AT   ACT_SITE: D306
+AT   METAL: D601 D665 D666
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0427367
+EV   E-Value: 1e-127
+SC   Score: 428 bits (1101)
+UP   Uniport_id: Q7TD08
+DE   RecName: Full=Enzymatic polyprotein;
+DE   Includes:
+DE     RecName: Full=Aspartic protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+GN   ORFNames=ORF V;
+end
+
+
+QN   scaffold189_1
+AT   ACT_SITE: D265
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700966
+EV   E-Value: 4e-75
+SC   Score: 274 bits (701)
+UP   Uniport_id: P10394
+DE   RecName: Full=Retrovirus-related Pol polyprotein from transposon 412;
+DE   Includes:
+DE     RecName: Full=Protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+GN   Name=POL; Synonyms=ORF3;
+end
+
+
+QN   scaffold205_1
+AT   ACT_SITE: D196
+AT   METAL: D483 D547 D548
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700152
+EV   E-Value: 2e-94
+SC   Score: 322 bits (825)
+UP   Uniport_id: Q7TD08
+DE   RecName: Full=Enzymatic polyprotein;
+DE   Includes:
+DE     RecName: Full=Aspartic protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+GN   ORFNames=ORF V;
+end
+
+
+QN   scaffold215_4
+AT   ACT_SITE: D233
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0427364
+EV   E-Value: 1e-08
+SC   Score: 62.0 bits (149)
+UP   Uniport_id: P04323
+DE   RecName: Full=Retrovirus-related Pol polyprotein from transposon 17.6;
+DE   Includes:
+DE     RecName: Full=Protease;
+DE              EC=3.4.23.-;
+DE   Includes:
+DE     RecName: Full=Reverse transcriptase;
+DE              EC=2.7.7.49;
+DE   Includes:
+DE     RecName: Full=Endonuclease;
+GN   Name=pol;
+end
+
+
+QN   scaffold336_2
+AT   ACT_SITE: D64
+AT   METAL: D296 D360 D361 D683 D726
+DO   Domain: NA
+FM   Family: A28
+MD   MEROPS_id: 0700778
+EV   E-Value: 6e-32
+SC   Score: 140 bits (352)
+UP   Uniport_id: P0CT41
+DE   RecName: Full=Transposon Tf2-12 polyprotein;
+DE   AltName: Full=Retrotransposable element Tf2 155 kDa protein;
+GN   Name=Tf2-12; Synonyms=Tf2-43; ORFNames=SPCC1020.14;
+end
+
+
