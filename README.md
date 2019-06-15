@@ -28,45 +28,45 @@ INSTALLATION on Linux or MacOSX
 
 BLAST+ installation
 
-$  cd ~
+   $  cd ~
 
-$  wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.1/ncbi-blast-2.8.1+-x64-linux.tar.gz
+   $  wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.8.1/ncbi-blast-2.8.1+-x64-linux.tar.gz
 
-$  tar -xzvf ncbi-blast-2.8.1+-x64-linux.tar.gz
+   $  tar -xzvf ncbi-blast-2.8.1+-x64-linux.tar.gz
 
-$  vim .bashrc
+   $  vim .bashrc
 
-   add 'export PATH="$HOME/ncbi-blast-2.8.1+/bin:$PATH"' (without single quotes) to the last line.
+      add 'export PATH="$HOME/ncbi-blast-2.8.1+/bin:$PATH"' (without single quotes) to the last line.
    
-$  source .bashrc
+   $  source .bashrc
 
 PepTidy installation
 
-$  cd ~
+   $  cd ~
 
-$  wegt http://www.peptidy.cn/downloads/PepTidy_1.0.0.tar.gz
+   $  wegt http://www.peptidy.cn/downloads/PepTidy_1.0.0.tar.gz
 
-$  tar -xzvf PepTidy_1.0.0.tar.gz
+   $  tar -xzvf PepTidy_1.0.0.tar.gz
 
-$  makeblastdb -in ~/PepTidy_1.0.0/MEROPS_database/protease_lib -dbtype prot -out ~/PepTidy_1.0.0/MEROPS_database/protease_lib
+   $  makeblastdb -in ~/PepTidy_1.0.0/MEROPS_database/protease_lib -dbtype prot -out ~/PepTidy_1.0.0/MEROPS_database/protease_lib
 
-$  makeblastdb -in ~/PepTidy_1.0.0/MEROPS_database/pepunit_lib -dbtype prot -out ~/PepTidy_1.0.0/MEROPS_database/pepunit_lib
+   $  makeblastdb -in ~/PepTidy_1.0.0/MEROPS_database/pepunit_lib -dbtype prot -out ~/PepTidy_1.0.0/MEROPS_database/pepunit_lib
 
-$  perl ~/PepTidy_1.0.0/PepTidy.pl -help
+   $  perl ~/PepTidy_1.0.0/PepTidy.pl -help
 
 If the help message of PepTidy.pl is shown, PepTidy is installed successfully. And users can run PepTidy to mine and annotate peptidases. If reporting ‘Can’t locate xxx.pm …’, please move on to next part “perl module installation”.
 
 Perl module installation
 
-$  sudo cpanm Getopt::Long
+   $  sudo cpanm Getopt::Long
 
-$  sudo cpanm Cwd
+   $  sudo cpanm Cwd
 
-$  sudo cpanm File::Spec::Functions
+   $  sudo cpanm File::Spec::Functions
 
-$  sudo cpanm File::Basename
+   $  sudo cpanm File::Basename
 
-$  sudo cpanm Module::Load::Conditional
+   $  sudo cpanm Module::Load::Conditional
 
 #USAGE
 
