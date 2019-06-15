@@ -19,11 +19,12 @@ yijiang@peptidy.cn
 #Bug reporting
 bugs@peptidy.cn
 
-#INTRODUCTION
+INTRODUCTION
 
 PepTidy is used to annotate and mine peptidases. The input file of PepTidy is protein sequences in FastA format1. PepTidy can detect homologues of peptidases by sequence pairwise alignments. PepTidy can also distinguish active peptidases from non-peptidease homologues by checking the completeness of important residues for activity of peptide bond hydrolysis, such as catalytic triad and metal binding sites, which is the most important advantage over annotation of peptideases merely relying on sequence similarity. Users can mine these putative peptidases by annotation informations, such as peptidase family, E.C. number, active site residue, metal binding site residue, peptidase name and so on.
 
-#INSTALLATION on Linux or MacOSX
+INSTALLATION on Linux or MacOSX
+
 
 BLAST+ installation
 
@@ -38,7 +39,6 @@ $  vim .bashrc
    add 'export PATH="$HOME/ncbi-blast-2.8.1+/bin:$PATH"' (without single quotes) to the last line.
    
 $  source .bashrc
-
 
 PepTidy installation
 
