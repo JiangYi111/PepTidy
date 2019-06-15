@@ -7,17 +7,17 @@ PepTidy: an automated pipeline for annotating and mining peptidases
 #This script is under the Artistic Licence
 #https://opensource.org/licenses/artistic-license-2.0
 
-# Author and Contact Information
+#Author and Contact Information
 Yi Jiang
 yijiang@peptidy.cn
 
-# Bug reporting
+#Bug reporting
 bugs@peptidy.cn
 
-# INTRODUCTION
+#INTRODUCTION
 PepTidy is used to annotate and mine peptidases. The input file of PepTidy is protein sequences in FastA format1. PepTidy can detect homologues of peptidases by sequence pairwise alignments. PepTidy can also distinguish active peptidases from non-peptidease homologues by checking the completeness of important residues for activity of peptide bond hydrolysis, such as catalytic triad and metal binding sites, which is the most important advantage over annotation of peptideases merely relying on sequence similarity. Users can mine these putative peptidases by annotation informations, such as peptidase family, E.C. number, active site residue, metal binding site residue, peptidase name and so on.
 
-# INSTALLATION on Linux or MacOSX
+#INSTALLATION on Linux or MacOSX
 --------------------------------------------
 BLAST+ installation
 $  cd ~
@@ -44,5 +44,5 @@ $  sudo cpanm File::Spec::Functions
 $  sudo cpanm File::Basename
 $  sudo cpanm Module::Load::Conditional
 
-# USAGE
+#USAGE
 Please refer to 'www.peptidy.cn/downloads/PepTidy_Userguide.pdf'
